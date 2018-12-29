@@ -1,0 +1,349 @@
+#EXTM3U
+
+
+
+#EXTINF:-1, (1) ATV
+http://trkvz-m.ercdn.net/trkvz-temp/atvhdm.m3u8
+
+
+#EXTINF:-1, (2) ATV FHD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23391
+
+
+#EXTINF:-1, (3) ATV HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23390
+
+
+#EXTINF:-1, (4) ATVHD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23389
+
+
+#EXTINF:-1, (5) ATV HD
+http://147.135.139.2:8000/live/mohamedsaleh/mohamedsaleh/626.ts
+
+
+
+
+
+
+
+#EXTINF:-1, (6) STAR TV
+http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
+
+
+#EXTINF:-1, (7) StarTV HD
+
+http://lcgid8xu.rocketcdn.com/startvhd.stream_240p/chunklist.m3u8
+
+
+#EXTINF:-1, (8) STAR TV HD
+http://147.135.139.2:8000/live/mohamedsaleh/mohamedsaleh/633.ts
+
+
+#EXTINF:-1, (9) STAR TV HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23338
+
+
+#EXTINF:-1, (10) STARTV FHD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23337
+
+
+#EXTINF:-1, (11) STARTV HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23336
+
+
+
+
+
+
+
+#EXTINF:-1, (12) KANALD HD
+http://live.netd.com.tr/S1/HLS_LIVE/kanald/1000/prog_index.m3u8
+
+
+#EXTINF:-1, (13) KANAL D 
+http://soledge13.dogannet.tv/S2/HLS_LIVE/kanaldnp/track_4_1000/playlist.m3u8
+
+
+#EXTINF:-1, (14) KANAL D 
+http://soledge7.dogannet.tv/S2/HLS_LIVE/kanald/1000/prog_index.m3u8
+
+
+#EXTINF:-1, (15) KANAL D 
+http://live.netd.com.tr/S1/HLS_LIVE/kanald/index.m3u8
+
+
+#EXTINF:-1, (16) KANAL D FHD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23349
+
+
+#EXTINF:-1, (17) KANAL D HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23348
+
+
+#EXTINF:-1, (18) KANAL D HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23344
+
+
+#EXTINF:-1, (19) KANAL D SD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23343
+
+
+
+
+
+
+
+#EXTINF:-1, (20) SHOW TV
+http://umutiptv.cf/ciner.php?kanal=show&type=m3u8
+
+
+#EXTINF:-1, (21) SHOW TV HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23342
+
+
+#EXTINF:-1, (22) SHOW TV FHD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23341
+
+
+#EXTINF:-1, (23) SHOW TV HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23340
+
+
+
+
+
+
+
+#EXTINF:-1, (24) KANAL 7
+http://178.132.6.97:8080/Kanal71/tracks-v1a1/index.m3u8
+
+
+#EXTINF:-1, (25) KANAL 7 HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23347
+
+
+#EXTINF:-1, (26) KANAL 7 FHD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23346
+
+
+#EXTINF:-1, (27) KANAL 7 HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23345
+
+
+
+
+
+
+
+#EXTINF:-1, (28) FOX TV HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23352
+
+
+#EXTINF:-1, (29) FOXHD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23351
+
+
+#EXTINF:-1, (30) FOX HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23350
+
+
+#EXTINF:-1, (31) FOX TV
+http://umutiptv.cf/fox.php?kanal=foxtr&type=m3u8
+
+
+#EXTINF:-1, (32) FOX TV HD
+http://147.135.139.2:8000/live/mohamedsaleh/mohamedsaleh/624.ts
+
+
+
+
+
+
+
+#EXTINF:-1, (33) TV 8
+http://umutiptv.cf/acun.php?kanal=tv8&type=m3u8
+
+
+#EXTINF:-1, (34) TV 8
+http://147.135.139.2:8000/live/mohamedsaleh/mohamedsaleh/629.ts
+
+
+#EXTINF:-1, (35) TV 8 FHD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23324
+
+
+#EXTINF:-1, (36) TV 8 HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23323
+
+
+
+
+
+
+
+#EXTINF:-1, (37) TV 8.5 HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23322
+
+
+#EXTINF:-1, (38) TV 8.5 HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23322
+
+
+
+
+
+
+
+#EXTINF:-1, (39) TRT 1 HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23333
+
+
+#EXTINF:-1, (40) TRT1 FHD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23329
+
+
+#EXTINF:-1, (41) TRT1 HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23328
+
+
+#EXTINF:-1, (42) TRT1 HD
+http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_1500_av-b.m3u8?sd=10&rebase=on
+
+
+#EXTINF:-1, (43) TRT1 HD YEDEK 1
+http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_900_av-p.m3u8?sd=10&rebase=on
+
+
+#EXTINF:-1, (44) TRT 1
+https://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_1500_av-p.m3u8
+
+
+#EXTINF:-1, (45) TRT1
+http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
+
+
+
+
+#EXTINF:-1, (46) TRT DIYANET HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23332
+
+
+#EXTINF:-1, (47) TRT DIYANET
+http://trtcanlitv-lh.akamaihd.net/i/TRTDIYANET_1@182344/index_1200_av-p.m3u8?sd=10&rebase=on&hdntl
+
+
+
+
+#EXTINF:-1, (48) TRT HABER HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23331
+
+
+#EXTINF:-1, (49) TRT HABER HD
+http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/index_1500_av-p.m3u8
+
+
+#EXTINF:-1, (50) TRT HABER
+https://trt-live.ercdn.net/trthaber/trthaber_1.m3u8
+
+
+
+#EXTINF:-1, (51) TRT HABER HD
+http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
+
+
+#EXTINF:-1, (52) TGRT HABER
+https://5ab9557ae2fa9.streamlock.net/tgrt_haber/amlst:live-25/chunklist_w1011305533_b1200096.m3u8
+
+
+
+
+#EXTINF:-1, (53) TRT SPOR HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23330
+
+
+#EXTINF:-1, (54) TRT SPOR FHD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23327
+
+
+#EXTINF:-1, (55) TRT SPOR HD
+https://trt-live.ercdn.net/trtspor/trtspor_1.m3u8
+
+
+#EXTINF:-1, (56) TRT SPOR SD
+https://trt-live.ercdn.net/trtspor/trtspor_2.m3u8
+
+
+
+
+#EXTINF:-1, (57) TRTARAPÇA
+http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/index_500_av-b.m3u8?sd=10&rebase=on&hdntl
+
+
+
+
+#EXTINF:-1, (58) TRT TÜRK HD
+http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
+
+
+#EXTINF:-1, (59) TRT TURK
+http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/index_1200_av-p.m3u8
+
+
+
+
+#EXTINF:-1, (60) TRT OKUL 
+http://trtcanlitv-lh.akamaihd.net/i/TRTOKUL_1@182245/index_1200_av-p.m3u8?sd=10&rebase=on
+
+
+#EXTINF:-1, (61) TRT OKUL
+https://trtcanlitv-lh.akamaihd.net/i/TRTOKUL_1@182245/index_1200_av-p.m3u8
+
+
+
+
+#EXTINF:-1, (62) TRT ÇOCUK
+http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/index_1200_av-p.m3u8
+
+
+#EXTINF:-1, (63) TRT COCUK
+https://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/index_1200_av-p.m3u8
+
+
+
+
+#EXTINF:-1, (64) TRT MUZIK HD 
+https://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/index_1200_av-p.m3u8
+
+
+#EXTINF:-1, (65) TRT MUZIK HD 
+http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
+
+
+#EXTINF:-1, (66) TRT MÜZIK HD
+http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
+
+
+
+
+#EXTINF:-1, (67) TRT AVAZ
+https://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/index_1200_av-p.m3u8
+
+
+
+
+#EXTINF:-1, (68) TRT KURDI HD
+http://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/master.m3u8
+
+
+
+
+#EXTINF:-1, (69) SHOW MAX
+https://mn-nl.mncdn.com/showmax/smil:showmax.smil/chunklist_b1264000.m3u8
+
+
+
+
+#EXTINF:-1, (70) EURO STAR
+http://xrklj56s.rocketcdn.com/eurostar.stream_360p/chunklist.m3u8
+
