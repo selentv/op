@@ -1,0 +1,267 @@
+#EXTM3U
+
+
+
+
+
+#EXTINF:-1, ATV 
+http://ams.tvizlehd.com/live/atvavrupa/playlist.m3u8
+
+
+#EXTINF:-1, (1) ATV Full HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23391
+
+
+
+#EXTINF:-1, (29) STAR TV
+http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
+
+
+#EXTINF:-1, (2) STARTV Full HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23337
+
+
+
+#EXTINF:-1, (3) KANAL D Full HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23349
+
+
+
+#EXTINF:-1, (35) KANAL D 
+http://soledge7.dogannet.tv/S2/HLS_LIVE/kanald/1000/prog_index.m3u8
+
+
+
+#EXTINF:-1, (4) SHOW TV Full HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23341
+
+
+
+#EXTINF:-1,SHOW TV
+http://kaantv.net:8000/live/aligiant/little/88.ts
+
+
+#EXTINF:-1,TV8 HD
+http://kaantv.net:8000/live/aligiant/little/90.ts
+
+
+#EXTINF:-1,TV 8-5
+http://kaantv.net:8000/live/aligiant/little/235.ts
+
+
+#EXTINF:-1, (7) KANAL 7 Full HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23346
+
+
+#EXTINF:-1,FOX
+http://kaantv.net:8000/live/aligiant/little/87.ts
+
+
+#EXTINF:-1, (8) FOX TV HD hanging
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23352
+
+
+
+
+
+#EXTINF:-1,NICKELODEON TR
+http://kaantv.net:8000/live/aligiant/little/271.ts
+
+
+#EXTINF:-1,NICK JR
+http://kaantv.net:8000/live/aligiant/little/237.ts
+
+
+#EXTINF:-1,DISNEY
+http://kaantv.net:8000/live/aligiant/little/317.ts
+
+
+#EXTINF:-1,CARTON netWORK
+http://kaantv.net:8000/live/aligiant/little/318.ts
+
+
+#EXTINF:-1,PLANET COCUK
+http://kaantv.net:8000/live/aligiant/little/424.ts
+
+
+
+
+
+
+
+
+
+#EXTINF:-1, (9) TRT 1 Full HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23329
+
+
+#EXTINF:-1, (10) TRT HABER HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23331
+
+
+#EXTINF:-1, (11) TRT SPOR Full HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23327
+
+
+#EXTINF:-1, (12) TRT ARAPÇA
+http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/index_500_av-b.m3u8?sd=10&rebase=on&hdntl
+
+
+#EXTINF:-1, (13) TRT DIYANET HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23332
+
+
+#EXTINF:-1, (14) TRT TÜRK
+http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/index_1200_av-p.m3u8
+
+
+#EXTINF:-1, (15) TRT OKUL 
+http://trtcanlitv-lh.akamaihd.net/i/TRTOKUL_1@182245/index_1200_av-p.m3u8?sd=10&rebase=on
+
+
+#EXTINF:-1, (16) TRT ÇOCUK
+http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/index_1200_av-p.m3u8
+
+
+#EXTINF:-1, (17) TRT MÜZIK HD 
+http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
+
+
+#EXTINF:-1, (18) TRT KURDI HD
+http://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/master.m3u8
+
+
+#EXTINF:-1, (19) EURO STAR
+http://xrklj56s.rocketcdn.com/eurostar.stream_360p/chunklist.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1, (20) TRT 1 HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23333
+
+
+#EXTINF:-1, (21) TRT 1 HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23328
+
+
+#EXTINF:-1, (22) TRT 1 HD
+http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_900_av-p.m3u8?sd=10&rebase=on
+
+
+#EXTINF:-1, (23) TRT 1
+http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
+
+
+
+#EXTINF:-1, (24) TRT SPOR HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23330
+
+
+
+
+#EXTINF:-1, (25) TRT TÜRK HD
+http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
+
+
+
+#EXTINF:-1, (26) TRT MÜZIK HD
+http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
+
+
+
+
+
+#EXTINF:-1, (27) ATV HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23389
+
+
+#EXTINF:-1, (28) ATV
+http://trkvz-m.ercdn.net/trkvz-temp/atvhdm.m3u8
+
+
+#EXTINF:-1, (29) STAR TV
+http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
+
+
+
+
+
+#EXTINF:-1, (30) Star TV HD
+
+http://lcgid8xu.rocketcdn.com/startvhd.stream_240p/chunklist.m3u8
+
+
+#EXTINF:-1, (31) STAR TV HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23336
+
+
+
+
+
+#EXTINF:-1, (32) KANAL D
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23343
+
+
+#EXTINF:-1, (33) KANAL D
+http://live.netd.com.tr/S1/HLS_LIVE/kanald/1000/prog_index.m3u8
+
+
+#EXTINF:-1, (34) KANAL D 
+http://soledge13.dogannet.tv/S2/HLS_LIVE/kanaldnp/track_4_1000/playlist.m3u8
+
+
+#EXTINF:-1, (35) KANAL D 
+http://soledge7.dogannet.tv/S2/HLS_LIVE/kanald/1000/prog_index.m3u8
+
+
+#EXTINF:-1, (36) KANAL D 
+http://live.netd.com.tr/S1/HLS_LIVE/kanald/index.m3u8
+
+
+
+
+#EXTINF:-1, (37) SHOW TV
+http://umutiptv.cf/ciner.php?kanal=show&type=m3u8
+
+
+#EXTINF:-1, (38) SHOW TV HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23342
+
+
+#EXTINF:-1, (39) SHOW TV HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23340
+
+
+
+
+#EXTINF:-1, (40) KANAL 7
+http://178.132.6.97:8080/Kanal71/tracks-v1a1/index.m3u8
+
+
+#EXTINF:-1, (41) KANAL 7 HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23347
+
+
+#EXTINF:-1, (42) KANAL 7 HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23345
+
+
+
+
+#EXTINF:-1, (43) FOX TV
+http://umutiptv.cf/fox.php?kanal=foxtr&type=m3u8
+
+
+#EXTINF:-1, (44) FOX TV HD
+http://147.135.139.2:8000/live/mohamedsaleh/mohamedsaleh/624.ts
+
+
+
+
+#EXTINF:-1, (45) TV 8 HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23323
+
