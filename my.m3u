@@ -1,0 +1,1052 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="##### TR - TURKIYE #####" tvg-logo="" group-title="AS | TURKISH",##### TR - TURKIYE #####
+http://borg.hopto.org:8090/html/greetings.mp4
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="TR - ATV HD" tvg-logo="http://212.8.253.112/logo/TURKIYE/ATVHD.png" group-title="AS | TURKISH",TR - ATV HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/39768.ts
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="TR - ATV HD PLUS" tvg-logo="http://212.8.253.112/logo/TURKIYE/ATVHDPLUS.png" group-title="AS | TURKISH",TR - ATV HD PLUS
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/39767.ts
+#EXTINF:-1 tvg-id="startv.tr" tvg-name="TR - STAR HD" tvg-logo="http://212.8.253.112/logo/TURKIYE/STAR.png" group-title="AS | TURKISH",TR - STAR HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/39766.ts
+#EXTINF:-1 tvg-id="startv.tr" tvg-name="TR - STAR HD PLUS" tvg-logo="http://212.8.253.112/logo/TURKIYE/STARHDPLUS.png" group-title="AS | TURKISH",TR - STAR HD PLUS
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/39765.ts
+#EXTINF:-1 tvg-id="kanald.tr" tvg-name="TR - KANAL D HD" tvg-logo="http://212.8.253.112/logo/TURKIYE/KANALD.png" group-title="AS | TURKISH",TR - KANAL D HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/39770.ts
+#EXTINF:-1 tvg-id="kanald.tr" tvg-name="TR - KANAL D HD PLUS" tvg-logo="http://212.8.253.112/logo/TURKIYE/KANALDHDPLUS.png" group-title="AS | TURKISH",TR - KANAL D HD PLUS
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/39769.ts
+#EXTINF:-1 tvg-id="showtv.tr" tvg-name="TR - SHOW HD" tvg-logo="http://212.8.253.112/logo/TURKIYE/SHOWHD.png" group-title="AS | TURKISH",TR - SHOW HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/39772.ts
+#EXTINF:-1 tvg-id="showtv.tr" tvg-name="TR - SHOW HD PLUS" tvg-logo="http://212.8.253.112/logo/TURKIYE/SHOWHDPLUS.png" group-title="AS | TURKISH",TR - SHOW HD PLUS
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/39771.ts
+#EXTINF:-1 tvg-id="fox.tr" tvg-name="TR - FOX HD" tvg-logo="http://212.8.253.112/logo/TURKIYE/FOX.png" group-title="AS | TURKISH",TR - FOX HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/39764.ts
+#EXTINF:-1 tvg-id="fox.tr" tvg-name="TR - FOX HD PLUS" tvg-logo="http://212.8.253.112/logo/TURKIYE/FOXHDPLUS.png" group-title="AS | TURKISH",TR - FOX HD PLUS
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/39763.ts
+#EXTINF:-1 tvg-id="tv8.tr" tvg-name="TR - TV 8 HD" tvg-logo="http://212.8.253.112/logo/TURKIYE/TV8HD.png" group-title="AS | TURKISH",TR - TV 8 HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/39762.ts
+#EXTINF:-1 tvg-id="tv8.tr" tvg-name="TR - TV 8 HD PLUS" tvg-logo="http://212.8.253.112/logo/TURKIYE/TV8HDPLUS.png" group-title="AS | TURKISH",TR - TV 8 HD PLUS
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/39761.ts
+#EXTINF:-1 tvg-id="tv85.tr" tvg-name="TR - TV 8.5 HD PLUS" tvg-logo="http://212.8.253.112/logo/TURKIYE/TV8.5HDPLUS.png" group-title="AS | TURKISH",TR - TV 8.5 HD PLUS
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/39759.ts
+#EXTINF:-1 tvg-id="tv85.tr" tvg-name="TR - TV 8.5 HD" tvg-logo="http://212.8.253.112/logo/TURKIYE/TV8.5HD.png" group-title="AS | TURKISH",TR - TV 8.5 HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/39758.ts
+#EXTINF:-1 tvg-id="a2tv.tr" tvg-name="TR - A2 HD PLUS" tvg-logo="http://212.8.253.112/logo/TURKIYE/A2HDPLUS.png" group-title="AS | TURKISH",TR - A2 HD PLUS
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/39757.ts
+#EXTINF:-1 tvg-id="beyaztv.tr" tvg-name="TR - BEYAZ HD PLUS" tvg-logo="http://212.8.253.112/logo/TURKIYE/BEYAZHDPLUS.png" group-title="AS | TURKISH",TR - BEYAZ HD PLUS
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/39760.ts
+#EXTINF:-1 tvg-id="tvem.tr" tvg-name="TR - TEVE 2 HD PLUS" tvg-logo="http://212.8.253.112/logo/TURKIYE/TEVE2HDPLUS.png" group-title="AS | TURKISH",TR - TEVE 2 HD PLUS
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/39756.ts
+#EXTINF:-1 tvg-id="showmax.tr" tvg-name="TR - SHOW MAX" tvg-logo="http://212.8.253.112/logo/TURKIYE/SHOWMAX.png" group-title="AS | TURKISH",TR - SHOW MAX
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/39755.ts
+#EXTINF:-1 tvg-id="kanal7.tr" tvg-name="TR - KANAL 7 HD" tvg-logo="http://212.8.253.112/logo/TURKIYE/KANAL7EUROPA.png" group-title="AS | TURKISH",TR - KANAL 7 HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/39754.ts
+#EXTINF:-1 tvg-id="kanal7.tr" tvg-name="TR - KANAL 7 HD PLUS" tvg-logo="http://212.8.253.112/logo/TURKIYE/KANAL7.png" group-title="AS | TURKISH",TR - KANAL 7 HD PLUS
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/39753.ts
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="TR - TRT 1 HD" tvg-logo="http://212.8.253.112/logo/TURKIYE/TRT1HD.png" group-title="AS | TURKISH",TR - TRT 1 HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/39774.ts
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="TR - TRT 1 HD PLUS" tvg-logo="http://212.8.253.112/logo/TURKIYE/TRT1HDPLUS.png" group-title="AS | TURKISH",TR - TRT 1 HD PLUS
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/39773.ts
+#EXTINF:-1 tvg-id="" tvg-name="##### TR - COCUKLAR #####" tvg-logo="" group-title="AS | TURKISH",##### TR - COCUKLAR #####
+http://borg.hopto.org:8090/html/greetings.mp4
+#EXTINF:-1 tvg-id="kidzanimez.tr" tvg-name="TR - KIDZ TV (KIDS)" tvg-logo="http://212.8.253.112/logo/TURKIYE/KIDZTV.png" group-title="AS | TURKISH",TR - KIDZ TV (KIDS)
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/39704.ts
+#EXTINF:-1 tvg-id="trtcocuk.tr" tvg-name="TR - TRT ÇOCUK HD PLUS" tvg-logo="http://212.8.253.112/logo/TURKIYE/TRT1HD.png" group-title="AS | TURKISH",TR - TRT ÇOCUK HD PLUS
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/39703.ts
+#EXTINF:-1 tvg-id="planetcocuk.tr" tvg-name="TR - PLANET ÇOCUK" tvg-logo="http://212.8.253.112/logo/TURKIYE/PLANET%C3%87OCUK.png" group-title="AS | TURKISH",TR - PLANET ÇOCUK
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/39702.ts
+#EXTINF:-1 tvg-id="minikago.tr" tvg-name="TR - MINIKA GO" tvg-logo="http://212.8.253.112/logo/TURKIYE/MINIKAGO.png" group-title="AS | TURKISH",TR - MINIKA GO
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/39701.ts
+#EXTINF:-1 tvg-id="minikacocuk.tr" tvg-name="TR - MINIKA ÇOCUK" tvg-logo="http://212.8.253.112/logo/TURKIYE/MINIKA%C3%87OCUK.png" group-title="AS | TURKISH",TR - MINIKA ÇOCUK
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/39700.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR - NICK JR" tvg-logo="http://212.8.253.112/logo/TURKIYE/NICKJR.png" group-title="AS | TURKISH",TR - NICK JR
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/39699.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR - NICKELODEON HD" tvg-logo="http://212.8.253.112/logo/TURKIYE/NICKELODEONHD.png" group-title="AS | TURKISH",TR - NICKELODEON HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/39698.ts
+#EXTINF:-1 tvg-id="disneychannel.tr" tvg-name="TR - DISNEY CHANNEL" tvg-logo="http://212.8.253.112/logo/TURKIYE/DISNEYCHANNEL.png" group-title="AS | TURKISH",TR - DISNEY CHANNEL
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/39697.ts
+#EXTINF:-1 tvg-id="cartoonnetwork.tr" tvg-name="TR - CARTOON NETWORK" tvg-logo="http://212.8.253.112/logo/TURKIYE/CARTOONNETWORK.png" group-title="AS | TURKISH",TR - CARTOON NETWORK
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/39696.ts
+#EXTINF:-1 tvg-id="" tvg-name="##### TR - FILMLER #####" tvg-logo="" group-title="AS | TURKISH",##### TR - FILMLER #####
+http://borg.hopto.org:8090/html/greetings.mp4
+#EXTINF:-1 tvg-id="beinmoviesaction.tr" tvg-name="TR - BEIN MOVIES ACTION HD" tvg-logo="http://212.8.253.112/logo/TURKIYE/BEINMOVIEST%C3%9CRK.png" group-title="AS | TURKISH",TR - BEIN MOVIES ACTION HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/39604.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR - BEIN MOVIES ACTION 2 HD" tvg-logo="http://212.8.253.112/logo/TURKIYE/BEINMOVIEST%C3%9CRK.png" group-title="AS | TURKISH",TR - BEIN MOVIES ACTION 2 HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/39603.ts
+#EXTINF:-1 tvg-id="beinmoviescomedy.tr" tvg-name="TR - BEIN MOVIES COMEDY HD" tvg-logo="http://212.8.253.112/logo/TURKIYE/BEINMOVIEST%C3%9CRK.png" group-title="AS | TURKISH",TR - BEIN MOVIES COMEDY HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/39602.ts
+#EXTINF:-1 tvg-id="beinmoviesfamily.tr" tvg-name="TR - BEIN MOVIES FAMILY HD" tvg-logo="http://212.8.253.112/logo/TURKIYE/BEINMOVIEST%C3%9CRK.png" group-title="AS | TURKISH",TR - BEIN MOVIES FAMILY HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/39601.ts
+#EXTINF:-1 tvg-id="beinmoviesfestival.tr" tvg-name="TR - BEIN MOVIES FESTIVAL HD" tvg-logo="http://212.8.253.112/logo/TURKIYE/BEINMOVIEST%C3%9CRK.png" group-title="AS | TURKISH",TR - BEIN MOVIES FESTIVAL HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/39600.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR - BEIN MOVIES PREMIER HD" tvg-logo="http://212.8.253.112/logo/TURKIYE/BEINMOVIEST%C3%9CRK.png" group-title="AS | TURKISH",TR - BEIN MOVIES PREMIER HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/39599.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR - BEIN MOVIES PREMIER 2 HD" tvg-logo="http://212.8.253.112/logo/TURKIYE/BEINMOVIEST%C3%9CRK.png" group-title="AS | TURKISH",TR - BEIN MOVIES PREMIER 2 HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/39598.ts
+#EXTINF:-1 tvg-id="beinmoviesstars.tr" tvg-name="TR - BEIN MOVIES STARS HD" tvg-logo="http://212.8.253.112/logo/TURKIYE/BEINMOVIEST%C3%9CRK.png" group-title="AS | TURKISH",TR - BEIN MOVIES STARS HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/39597.ts
+#EXTINF:-1 tvg-id="beinmoviesturk.tr" tvg-name="TR - BEIN MOVIES TURK HD" tvg-logo="http://212.8.253.112/logo/TURKIYE/BEINMOVIEST%C3%9CRK.png" group-title="AS | TURKISH",TR - BEIN MOVIES TURK HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/39596.ts
+#EXTINF:-1 tvg-id="beinboxoffice1.tr" tvg-name="TR - BEIN BOX OFFICE 1 HD" tvg-logo="http://212.8.253.112/logo/TURKIYE/BEINBOXOFFICE2.png" group-title="AS | TURKISH",TR - BEIN BOX OFFICE 1 HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/39595.ts
+#EXTINF:-1 tvg-id="beinboxoffice2.tr" tvg-name="TR - BEIN BOX OFFICE 2 HD" tvg-logo="http://212.8.253.112/logo/TURKIYE/BEINBOXOFFICE2.png" group-title="AS | TURKISH",TR - BEIN BOX OFFICE 2 HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/39594.ts
+#EXTINF:-1 tvg-id="beinboxoffice3.tr" tvg-name="TR - BEIN BOX OFFICE 3 HD" tvg-logo="http://212.8.253.112/logo/TURKIYE/BEINBOXOFFICE3.png" group-title="AS | TURKISH",TR - BEIN BOX OFFICE 3 HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/39593.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR - LOCA 1 HD" tvg-logo="http://212.8.253.112/logo/TURKIYE/LOCA1.png" group-title="AS | TURKISH",TR - LOCA 1 HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/39592.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR - LOCA 2 HD" tvg-logo="http://212.8.253.112/logo/TURKIYE/LOCA2.png" group-title="AS | TURKISH",TR - LOCA 2 HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/39591.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR - LOCA 3 HD" tvg-logo="http://212.8.253.112/logo/TURKIYE/LOCA3.png" group-title="AS | TURKISH",TR - LOCA 3 HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/39590.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR - BLACK TV ACTION" tvg-logo="http://212.8.253.112/logo/TURKIYE/BlackTVACTION.png" group-title="AS | TURKISH",TR - BLACK TV ACTION
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/39589.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR - BLACK TV ANIMAYON" tvg-logo="http://212.8.253.112/logo/TURKIYE/BlackTVANIMAYON.png" group-title="AS | TURKISH",TR - BLACK TV ANIMAYON
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/39588.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR - BLACK TV CLASSIC" tvg-logo="http://212.8.253.112/logo/TURKIYE/BlackTVCLASSIC.png" group-title="AS | TURKISH",TR - BLACK TV CLASSIC
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/39587.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR - BLACK TV COMEDY" tvg-logo="http://212.8.253.112/logo/TURKIYE/BlackTVCOMEDY.png" group-title="AS | TURKISH",TR - BLACK TV COMEDY
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/39586.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR - BLACK TV LOVE" tvg-logo="http://212.8.253.112/logo/TURKIYE/blacktvlove%20(1).png" group-title="AS | TURKISH",TR - BLACK TV LOVE
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/39585.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR - BLACK TV OSCAR" tvg-logo="http://212.8.253.112/logo/TURKIYE/BlackTVOSCAR.png" group-title="AS | TURKISH",TR - BLACK TV OSCAR
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/39584.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR - BLACK TV PREMIER" tvg-logo="http://212.8.253.112/logo/TURKIYE/BlackTVPREMIER.png" group-title="AS | TURKISH",TR - BLACK TV PREMIER
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/39583.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR - BLACK TV TURK" tvg-logo="http://212.8.253.112/logo/TURKIYE/BlackTVOSCAR.png" group-title="AS | TURKISH",TR - BLACK TV TURK
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/39582.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR - BLACK TV VIZYON" tvg-logo="http://212.8.253.112/logo/TURKIYE/BlackTVVIZYON.png" group-title="AS | TURKISH",TR - BLACK TV VIZYON
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/39581.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR - BLACK TV VIZYON 2" tvg-logo="http://212.8.253.112/logo/TURKIYE/BlackTVVIZYON.png" group-title="AS | TURKISH",TR - BLACK TV VIZYON 2
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/39580.ts
+#EXTINF:-1 tvg-id="mesajtv.tr" tvg-name="TR - MANAS TV HD" tvg-logo="http://212.8.253.112/logo/TURKIYE/MANASTV.png" group-title="AS | TURKISH",TR - MANAS TV HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/39579.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR - VIXX TV HD" tvg-logo="http://212.8.253.112/logo/TURKIYE/VIXXTV.png" group-title="AS | TURKISH",TR - VIXX TV HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/39578.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR - VIXX TV 2 HD" tvg-logo="http://212.8.253.112/logo/TURKIYE/VIXXTV.png" group-title="AS | TURKISH",TR - VIXX TV 2 HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/39577.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR - VIXX TV GOLD HD" tvg-logo="http://212.8.253.112/logo/TURKIYE/VIXXTV.png" group-title="AS | TURKISH",TR - VIXX TV GOLD HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/39576.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR - MOVIESINEMA AKSIYON HD" tvg-logo="http://212.8.253.112/logo/TURKIYE/MOVIESINEMATURK.png" group-title="AS | TURKISH",TR - MOVIESINEMA AKSIYON HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/39575.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR - MOVIESINEMA AKSIYON 2 HD" tvg-logo="http://212.8.253.112/logo/TURKIYE/MOVIESINEMATURK.png" group-title="AS | TURKISH",TR - MOVIESINEMA AKSIYON 2 HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/39574.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR - MOVIESINEMA ANIMASYON HD" tvg-logo="http://212.8.253.112/logo/TURKIYE/MOVIESINEMATURK.png" group-title="AS | TURKISH",TR - MOVIESINEMA ANIMASYON HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/39573.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR - MOVIESINEMA ANIMASYON 2 HD" tvg-logo="http://212.8.253.112/logo/TURKIYE/MOVIESINEMATURK.png" group-title="AS | TURKISH",TR - MOVIESINEMA ANIMASYON 2 HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/39572.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR - MOVIESINEMA KOMEDI HD" tvg-logo="http://212.8.253.112/logo/TURKIYE/MOVIESINEMATURK.png" group-title="AS | TURKISH",TR - MOVIESINEMA KOMEDI HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/39571.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR - MOVIESINEMA KORKU HD" tvg-logo="http://212.8.253.112/logo/TURKIYE/MOVIESINEMATURK.png" group-title="AS | TURKISH",TR - MOVIESINEMA KORKU HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/39570.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR - MOVIESINEMA TURK HD" tvg-logo="http://212.8.253.112/logo/TURKIYE/MOVIESINEMATURK.png" group-title="AS | TURKISH",TR - MOVIESINEMA TURK HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/39569.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR - MOVIESINEMA TURK 2 HD" tvg-logo="http://212.8.253.112/logo/TURKIYE/MOVIESINEMATURK2.png" group-title="AS | TURKISH",TR - MOVIESINEMA TURK 2 HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/39568.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR - MOVIESINEMA VIZYON HD" tvg-logo="http://212.8.253.112/logo/TURKIYE/MOVIESINEMAVIZYONHD.png" group-title="AS | TURKISH",TR - MOVIESINEMA VIZYON HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/39567.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR - MOVIESINEMA YESILCAM HD" tvg-logo="http://212.8.253.112/logo/TURKIYE/MOVIESINEMAVIZYONHD.png" group-title="AS | TURKISH",TR - MOVIESINEMA YESILCAM HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/39566.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR - KEMAL SUNAL TV" tvg-logo="http://212.8.253.112/logo/TURKIYE/KEMALSUNALTV.png" group-title="AS | TURKISH",TR - KEMAL SUNAL TV
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/39565.ts
+#EXTINF:-1 tvg-id="" tvg-name="##### TR - SPOR #####" tvg-logo="" group-title="AS | TURKISH",##### TR - SPOR #####
+http://borg.hopto.org:8090/html/greetings.mp4
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR - BEIN SPORT 1 UHD" tvg-logo="http://212.8.253.112/logo/TURKIYE/BEINSPORTS.png" group-title="AS | TURKISH",TR - BEIN SPORT 1 UHD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/39563.ts
+#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="TR - BEIN SPORT 2 UHD" tvg-logo="http://212.8.253.112/logo/TURKIYE/BEINSPORTS.png" group-title="AS | TURKISH",TR - BEIN SPORT 2 UHD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/39562.ts
+#EXTINF:-1 tvg-id="beinsports3.tr" tvg-name="TR - BEIN SPORT 3 UHD" tvg-logo="http://212.8.253.112/logo/TURKIYE/BEINSPORTS.png" group-title="AS | TURKISH",TR - BEIN SPORT 3 UHD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/39561.ts
+#EXTINF:-1 tvg-id="beinsports4.tr" tvg-name="TR - BEIN SPORT 4 UHD" tvg-logo="http://212.8.253.112/logo/TURKIYE/BEINSPORTS.png" group-title="AS | TURKISH",TR - BEIN SPORT 4 UHD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/39560.ts
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR - BEIN SPORTS 1 HD" tvg-logo="http://212.8.253.112/logo/TURKIYE/BEINSPORTS.png" group-title="AS | TURKISH",TR - BEIN SPORTS 1 HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/39559.ts
+#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="TR - BEIN SPORTS 2 HD" tvg-logo="http://212.8.253.112/logo/TURKIYE/BEINSPORTS.png" group-title="AS | TURKISH",TR - BEIN SPORTS 2 HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/39558.ts
+#EXTINF:-1 tvg-id="beinsports3.tr" tvg-name="TR - BEIN SPORTS 3 HD" tvg-logo="http://212.8.253.112/logo/TURKIYE/BEINSPORTS.png" group-title="AS | TURKISH",TR - BEIN SPORTS 3 HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/39557.ts
+#EXTINF:-1 tvg-id="beinsports4.tr" tvg-name="TR - BEIN SPORTS 4 HD" tvg-logo="http://212.8.253.112/logo/TURKIYE/BEINSPORTS.png" group-title="AS | TURKISH",TR - BEIN SPORTS 4 HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/39556.ts
+#EXTINF:-1 tvg-id="beinsportmax.tr" tvg-name="TR - BEIN MAX 1 HD" tvg-logo="http://212.8.253.112/logo/TURKIYE/BEINSPORTS.png" group-title="AS | TURKISH",TR - BEIN MAX 1 HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/39555.ts
+#EXTINF:-1 tvg-id="beinsportmax2.tr" tvg-name="TR - BEIN MAX 2 HD" tvg-logo="http://212.8.253.112/logo/TURKIYE/BEINSPORTS.png" group-title="AS | TURKISH",TR - BEIN MAX 2 HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/39554.ts
+#EXTINF:-1 tvg-id="smartcocuk.tr" tvg-name="TR - SMART SPOR HD" tvg-logo="http://212.8.253.112/logo/TURKIYE/SMARTSPOR.png" group-title="AS | TURKISH",TR - SMART SPOR HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/39553.ts
+#EXTINF:-1 tvg-id="ssport.tr" tvg-name="TR - SPORTS TV" tvg-logo="http://212.8.253.112/logo/TURKIYE/SPORTSTV.png" group-title="AS | TURKISH",TR - SPORTS TV
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/39552.ts
+#EXTINF:-1 tvg-id="ssport.tr" tvg-name="TR - SARAN SPORT HD" tvg-logo="http://212.8.253.112/logo/TURKIYE/SARANSPORTHD.png" group-title="AS | TURKISH",TR - SARAN SPORT HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/39551.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR - TIVIBU SPOR HD PLUS" tvg-logo="http://212.8.253.112/logo/TURKIYE/TIVIBUSPOR.png" group-title="AS | TURKISH",TR - TIVIBU SPOR HD PLUS
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/39550.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR - TIVIBU SPOR 1 HD" tvg-logo="http://212.8.253.112/logo/TURKIYE/TIVIBUSPOR.png" group-title="AS | TURKISH",TR - TIVIBU SPOR 1 HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/39549.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR - TIVIBU SPOR 2 HD" tvg-logo="http://212.8.253.112/logo/TURKIYE/TIVIBUSPOR2.png" group-title="AS | TURKISH",TR - TIVIBU SPOR 2 HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/39548.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR - TIVIBU SPOR 3 HD" tvg-logo="http://212.8.253.112/logo/TURKIYE/tivibuspor3.png" group-title="AS | TURKISH",TR - TIVIBU SPOR 3 HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/39547.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR - TIVIBU SPOR 4 HD" tvg-logo="http://212.8.253.112/logo/TURKIYE/TIVIBUSPOR4.png" group-title="AS | TURKISH",TR - TIVIBU SPOR 4 HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/39546.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR - BEIN SPORTS HABER HD PLUS" tvg-logo="http://212.8.253.112/logo/TURKIYE/BEINSPORTSHABERHDPLUS.png" group-title="AS | TURKISH",TR - BEIN SPORTS HABER HD PLUS
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/39545.ts
+#EXTINF:-1 tvg-id="trtspor.tr" tvg-name="TR - TRT SPOR HD PLUS" tvg-logo="http://212.8.253.112/logo/TURKIYE/TRTSPORHDPLUS.png" group-title="AS | TURKISH",TR - TRT SPOR HD PLUS
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/39544.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR - TAY TV HD PLUS" tvg-logo="http://212.8.253.112/logo/TURKIYE/TAYTVHDPLUS.png" group-title="AS | TURKISH",TR - TAY TV HD PLUS
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/39543.ts
+#EXTINF:-1 tvg-id="aspor.tr" tvg-name="TR - A SPOR HD PLUS" tvg-logo="http://212.8.253.112/logo/TURKIYE/ASPORHDPLUS.png" group-title="AS | TURKISH",TR - A SPOR HD PLUS
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/39542.ts
+#EXTINF:-1 tvg-id="fbtv.tr" tvg-name="TR - FB TV HD PLUS" tvg-logo="http://212.8.253.112/logo/TURKIYE/FBTVHDPLUS.png" group-title="AS | TURKISH",TR - FB TV HD PLUS
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/39541.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR - BJK TV" tvg-logo="http://212.8.253.112/logo/TURKIYE/BJKTV.png" group-title="AS | TURKISH",TR - BJK TV
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/39540.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR - GS TV" tvg-logo="http://212.8.253.112/logo/TURKIYE/GSTV.png" group-title="AS | TURKISH",TR - GS TV
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/39539.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - AL RAYYAN HD" tvg-logo="http://212.8.253.112/logo/QATAR/ALRAYYAN.png" group-title="AR | QATAR",AR - AL RAYYAN HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/577.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - AL RAYYAN" tvg-logo="http://212.8.253.112/logo/QATAR/ALRAYYAN.png" group-title="AR | QATAR",AR - AL RAYYAN
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/575.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - QATAR TV HD" tvg-logo="http://212.8.253.112/logo/QATAR/QATARTVHD.png" group-title="AR | QATAR",AR - QATAR TV HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/574.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - LEBANON TV" tvg-logo="http://212.8.253.112/logo/ARABE/ALAANTVLEBANON.png" group-title="AR | LIBAN",AR - LEBANON TV
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/780.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - MTV LEBANON" tvg-logo="http://212.8.253.112/logo/LEBANON/MTVLEBANON.png" group-title="AR | LIBAN",AR - MTV LEBANON
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/776.ts
+#EXTINF:-1 tvg-id="MTVLebanon.lb" tvg-name="AR - MTV LEBANON HD" tvg-logo="http://212.8.253.112/logo/ARABE/MTVLEBANONHD.png" group-title="AR | LIBAN",AR - MTV LEBANON HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/19161.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - NBN LEBANON HD" tvg-logo="http://212.8.253.112/logo/LEBANON/NBNLEBANONHD.png" group-title="AR | LIBAN",AR - NBN LEBANON HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/27423.ts
+#EXTINF:-1 tvg-id="" tvg-name="(ARABIC KIDS)" tvg-logo="http://212.8.253.112/logo/KIDS/SPACETOON.png" group-title="AR | ARABIC KIDS",(ARABIC KIDS)
+http://borg.hopto.org:8090/html/greetings.mp4
+#EXTINF:-1 tvg-id="" tvg-name="AR - MICKEY CHANNEL" tvg-logo="http://212.8.253.112/logo/KIDS/MICKEYCHANNEL.png" group-title="AR | ARABIC KIDS",AR - MICKEY CHANNEL
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/954.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - AL MAJD KIDS HD" tvg-logo="http://212.8.253.112/logo/KIDS/ALMAJDKIDSHD.png" group-title="AR | ARABIC KIDS",AR - AL MAJD KIDS HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/944.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - CARTOON NETWORK" tvg-logo="http://212.8.253.112/logo/KIDS/CARTOONNETWORK.png" group-title="AR | SAOUDI",AR - CARTOON NETWORK
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/899.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - SPACETOON" tvg-logo="http://212.8.253.112/logo/KIDS/SPACETOON.png" group-title="AR | ARABIC KIDS",AR - SPACETOON
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/947.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - TAHA KIDS" tvg-logo="http://212.8.253.112/logo/KIDS/TAHAKIDS.png" group-title="AR | ARABIC KIDS",AR - TAHA KIDS
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/949.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - TOYOR BABY" tvg-logo="http://212.8.253.112/logo/KIDS/TOYORBABY.png" group-title="AR | ARABIC KIDS",AR - TOYOR BABY
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/945.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - JEEM KIDS" tvg-logo="http://212.8.253.112/logo/KIDS/JEEMKIDS.png" group-title="AR | ARABIC KIDS",AR - JEEM KIDS
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/952.ts
+#EXTINF:-1 tvg-id="ToyorBaby.jo" tvg-name="AR - TOYOR AL JANAH" tvg-logo="http://212.8.253.112/logo/KIDS/TOYORALJANAHtoyoraljanah.png" group-title="AR | ARABIC KIDS",AR - TOYOR AL JANAH
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/946.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - SEM SEM TV" tvg-logo="http://212.8.253.112/logo/KIDS/SEMSEMTV.png" group-title="AR | SAOUDI",AR - SEM SEM TV
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/898.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - ATFAL & MAWAHEB" tvg-logo="http://212.8.253.112/logo/KIDS/ATFAL&MAWAHEB.png" group-title="AR | ARABIC KIDS",AR - ATFAL & MAWAHEB
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/951.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - BARAEM KIDS EUROPE" tvg-logo="http://212.8.253.112/logo/KIDS/BARAEMKIDSEUROPE.png" group-title="AR | ARABIC KIDS",AR - BARAEM KIDS EUROPE
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/948.ts
+#EXTINF:-1 tvg-id="MBCBollywood.sa" tvg-name="AR - MBC BOLLYWOOD HD" tvg-logo="http://212.8.253.112/logo/MBCGROUP/MBCBOLLYWOOD.png" group-title="AR | MBC",AR - MBC BOLLYWOOD HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/19165.ts
+#EXTINF:-1 tvg-id="MBC1.ae" tvg-name="AR - MBC 1" tvg-logo="http://212.8.253.112/logo/MBCGROUP/MBC.png" group-title="AR | MBC",AR - MBC 1
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/979.ts
+#EXTINF:-1 tvg-id="MBC2.ae" tvg-name="AR - MBC 2" tvg-logo="http://212.8.253.112/logo/MBCGROUP/MBC2.png" group-title="AR | MBC",AR - MBC 2
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/978.ts
+#EXTINF:-1 tvg-id="MBC3.ae" tvg-name="AR - MBC 3" tvg-logo="http://212.8.253.112/logo/MBCGROUP/MBC3.png" group-title="AR | MBC",AR - MBC 3
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/977.ts
+#EXTINF:-1 tvg-id="MBC4.sa" tvg-name="AR - MBC 4" tvg-logo="http://212.8.253.112/logo/MBCGROUP/MBC4.png" group-title="AR | MBC",AR - MBC 4
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/976.ts
+#EXTINF:-1 tvg-id="MBCAction.sa" tvg-name="AR - MBC ACTION" tvg-logo="http://212.8.253.112/logo/MBCGROUP/MBCACTION.png" group-title="AR | MBC",AR - MBC ACTION
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/975.ts
+#EXTINF:-1 tvg-id="MBCBollywood.sa" tvg-name="AR - MBC BOLLYWOOD" tvg-logo="http://212.8.253.112/logo/MBCGROUP/MBCBOLLYWOOD.png" group-title="AR | MBC",AR - MBC BOLLYWOOD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/968.ts
+#EXTINF:-1 tvg-id="MBCDramaPlus.ae" tvg-name="AR - MBC DRAMA" tvg-logo="http://212.8.253.112/logo/MBCGROUP/MBCDRAMA.png" group-title="AR | MBC",AR - MBC DRAMA
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/973.ts
+#EXTINF:-1 tvg-id="MBCDrama.ae" tvg-name="AR - MBC DRAMA HD" tvg-logo="http://212.8.253.112/logo/MBCGROUP/MBCDRAMA.png" group-title="AR | MBC",AR - MBC DRAMA HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/19166.ts
+#EXTINF:-1 tvg-id="MbcMasr.eg" tvg-name="AR - MBC MASR" tvg-logo="http://212.8.253.112/logo/MBCGROUP/MBCMASR.png" group-title="AR | EGYPT",AR - MBC MASR
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/863.ts
+#EXTINF:-1 tvg-id="MbcMasr2.eg" tvg-name="AR - MBC MASR 2" tvg-logo="http://212.8.253.112/logo/MBCGROUP/MBCMASR2.png" group-title="AR | EGYPT",AR - MBC MASR 2
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/862.ts
+#EXTINF:-1 tvg-id="MBCMax.ae" tvg-name="AR - MBC MAX" tvg-logo="http://212.8.253.112/logo/MBCGROUP/MBCMAX.png" group-title="AR | MBC",AR - MBC MAX
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/974.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - ZEE ALWAN" tvg-logo="http://212.8.253.112/logo/ARABE/ZEEALWAN.png" group-title="AR | ROTANA",AR - ZEE ALWAN
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/959.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - ZEE AFLAM" tvg-logo="http://212.8.253.112/logo/ARABE/ZEEAFLAM.png" group-title="AR | ROTANA",AR - ZEE AFLAM
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/958.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - B4U PLUS" tvg-logo="http://212.8.253.112/logo/ARABE/B4UPLUS.png" group-title="AR | ROTANA",AR - B4U PLUS
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/956.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - B4U AFLAM" tvg-logo="http://212.8.253.112/logo/MBCGROUP/B4UAFLAM.png" group-title="AR | ROTANA",AR - B4U AFLAM
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/957.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - WANASAH TV" tvg-logo="http://212.8.253.112/logo/ARABE/WANASAHTV.png" group-title="AR | MBC",AR - WANASAH TV
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/967.ts
+#EXTINF:-1 tvg-id="MBC1.ae" tvg-name="MYHD PREMIUM - MBC1 HD" tvg-logo="http://212.8.253.112/logo/MBCGROUP/MBC.png" group-title="AR | MYHD PREMIUM",MYHD PREMIUM - MBC1 HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/31264.ts
+#EXTINF:-1 tvg-id="MBC2.ae" tvg-name="MYHD PREMIUM - MBC2 HD" tvg-logo="http://212.8.253.112/logo/MBCGROUP/MBC2.png" group-title="AR | MYHD PREMIUM",MYHD PREMIUM - MBC2 HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/31263.ts
+#EXTINF:-1 tvg-id="MBC3.ae" tvg-name="MYHD PREMIUM - MBC3 HD" tvg-logo="http://212.8.253.112/logo/MBCGROUP/MBC3.png" group-title="AR | MYHD PREMIUM",MYHD PREMIUM - MBC3 HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/31262.ts
+#EXTINF:-1 tvg-id="MBC4.sa" tvg-name="MYHD PREMIUM - MBC4 HD" tvg-logo="http://212.8.253.112/logo/MBCGROUP/MBC4.png" group-title="AR | MYHD PREMIUM",MYHD PREMIUM - MBC4 HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/31261.ts
+#EXTINF:-1 tvg-id="MBCDrama.ae" tvg-name="MYHD PREMIUM - MBC  Drama HD" tvg-logo="http://212.8.253.112/logo/MBCGROUP/MBCDRAMA.png" group-title="AR | MYHD PREMIUM",MYHD PREMIUM - MBC  Drama HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/31272.ts
+#EXTINF:-1 tvg-id="MBCAction.sa" tvg-name="MYHD PREMIUM - MBC Action HD" tvg-logo="http://212.8.253.112/logo/MBCGROUP/MBCACTION.png" group-title="AR | MYHD PREMIUM",MYHD PREMIUM - MBC Action HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/31271.ts
+#EXTINF:-1 tvg-id="MBCBollywood.sa" tvg-name="MYHD PREMIUM - MBC Bollywood HD" tvg-logo="http://212.8.253.112/logo/MBCGROUP/MBCBOLLYWOOD.png" group-title="AR | MYHD PREMIUM",MYHD PREMIUM - MBC Bollywood HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/31270.ts
+#EXTINF:-1 tvg-id="MBCDrama.ae" tvg-name="MYHD PREMIUM - MBC DRAMA  HD" tvg-logo="http://212.8.253.112/logo/MBCGROUP/MBCDRAMA.png" group-title="AR | MYHD PREMIUM",MYHD PREMIUM - MBC DRAMA  HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/31269.ts
+#EXTINF:-1 tvg-id="MBCDrama.ae" tvg-name="MYHD PREMIUM - MBC Drama HD" tvg-logo="http://212.8.253.112/logo/MBCGROUP/MBCDRAMA.png" group-title="AR | MYHD PREMIUM",MYHD PREMIUM - MBC Drama HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/31268.ts
+#EXTINF:-1 tvg-id="MbcMasr2.eg" tvg-name="MYHD PREMIUM - MBC Masir2" tvg-logo="http://212.8.253.112/logo/MBCGROUP/MBCMASR2.png" group-title="AR | MYHD PREMIUM",MYHD PREMIUM - MBC Masir2
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/31267.ts
+#EXTINF:-1 tvg-id="MBCMax.ae" tvg-name="MYHD PREMIUM - MBC MAX HD" tvg-logo="http://212.8.253.112/logo/MBCGROUP/MBCMAX.png" group-title="AR | MYHD PREMIUM",MYHD PREMIUM - MBC MAX HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/31266.ts
+#EXTINF:-1 tvg-id="" tvg-name="MYHD PREMIUM - MBC Variety HD" tvg-logo="http://212.8.253.112/logo/MBCGROUP/MBC.png" group-title="AR | MYHD PREMIUM",MYHD PREMIUM - MBC Variety HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/31265.ts
+#EXTINF:-1 tvg-id="" tvg-name="##### BEIN SPORT #####" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTS.png" group-title="AR | BEIN SPORT",##### BEIN SPORT #####
+http://borg.hopto.org:8090/html/greetings.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BEIN MAX 1 HD" tvg-logo="" group-title="AR | BEIN SPORT",BEIN MAX 1 HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/39171.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN MAX 2 HD" tvg-logo="" group-title="AR | BEIN SPORT",BEIN MAX 2 HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/39170.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEINMAX 1 FHD" tvg-logo="http://212.8.253.112/logo/TURKIYE/BEINMAX.png" group-title="AR | BEIN SPORT",BEINMAX 1 FHD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/39438.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEINMAX 1 HEVC/4K" tvg-logo="http://212.8.253.112/logo/TURKIYE/BEINMAX.png" group-title="AR | BEIN SPORT",BEINMAX 1 HEVC/4K
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/39437.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEINMAX 2 FHD" tvg-logo="http://212.8.253.112/logo/TURKIYE/BEINMAX.png" group-title="AR | BEIN SPORT",BEINMAX 2 FHD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/39436.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEINMAX 2 HEVC/4K" tvg-logo="http://212.8.253.112/logo/TURKIYE/BEINMAX.png" group-title="AR | BEIN SPORT",BEINMAX 2 HEVC/4K
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/39435.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3  HD" tvg-logo="" group-title="EU | SKY ITALY",BEIN SPORTS 3  HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/41640.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3  FHD 1080P" tvg-logo="" group-title="AR | BEIN SPORT",BEIN SPORTS 3  FHD 1080P
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/41641.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3  4K HEVC 1080P" tvg-logo="" group-title="AR | BEIN SPORT",BEIN SPORTS 3  4K HEVC 1080P
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/41642.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT 1 1.2MB" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTS.png" group-title="AR | BEIN SPORT",BEIN SPORT 1 1.2MB
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/18114.ts
+#EXTINF:-1 tvg-id="beINSports2.qa" tvg-name="BEIN SPORT 2 1.2MB" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTSHD2%C2%B3.png" group-title="AR | BEIN SPORT",BEIN SPORT 2 1.2MB
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/18113.ts
+#EXTINF:-1 tvg-id="beINSports3.qa" tvg-name="BEIN SPORT 3 1.2MB" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTSHD3%C2%B3.png" group-title="AR | BEIN SPORT",BEIN SPORT 3 1.2MB
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/18112.ts
+#EXTINF:-1 tvg-id="beINSports4.qa" tvg-name="BEIN SPORT 4 1.2MB" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTHD4%C2%B3.png" group-title="AR | BEIN SPORT",BEIN SPORT 4 1.2MB
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/18111.ts
+#EXTINF:-1 tvg-id="beINSports5.qa" tvg-name="BEIN SPORT 5 1.2MB" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTS5.png" group-title="AR | BEIN SPORT",BEIN SPORT 5 1.2MB
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/18110.ts
+#EXTINF:-1 tvg-id="beINSports6.qa" tvg-name="BEIN SPORT 6 1.2MB" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTSHD6%C2%B3.png" group-title="AR | BEIN SPORT",BEIN SPORT 6 1.2MB
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/18109.ts
+#EXTINF:-1 tvg-id="beINSports7.qa" tvg-name="BEIN SPORT 7 1.2MB" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTSHD7%C2%B3.png" group-title="AR | BEIN SPORT",BEIN SPORT 7 1.2MB
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/18108.ts
+#EXTINF:-1 tvg-id="beINSports8.qa" tvg-name="BEIN SPORT 8 1.2MB" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTSHD8%C2%B3.png" group-title="AR | BEIN SPORT",BEIN SPORT 8 1.2MB
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/18107.ts
+#EXTINF:-1 tvg-id="beINSports9.qa" tvg-name="BEIN SPORT 9 1.2MB" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTSHD9%C2%B3.png" group-title="AR | BEIN SPORT",BEIN SPORT 9 1.2MB
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/18106.ts
+#EXTINF:-1 tvg-id="beINSports10.qa" tvg-name="BEIN SPORT 10 1.2MB" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORT101.2MB.png" group-title="AR | BEIN SPORT",BEIN SPORT 10 1.2MB
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/18105.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - QHD BEIN SPORTS HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTS.png" group-title="AR | BEIN SPORT",AR - QHD BEIN SPORTS HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/27923.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - QHD BEIN SPORTS NEWS HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTNEWS.png" group-title="AR | BEIN SPORT",AR - QHD BEIN SPORTS NEWS HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/27922.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - QHD BEIN SPORTS 1 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTS.png" group-title="AR | BEIN SPORT",AR - QHD BEIN SPORTS 1 HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/27921.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - QHD BEIN SPORTS 2 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORT21.2MB.png" group-title="AR | BEIN SPORT",AR - QHD BEIN SPORTS 2 HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/27920.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - QHD BEIN SPORTS 3 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORT31.2MB.png" group-title="AR | BEIN SPORT",AR - QHD BEIN SPORTS 3 HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/27919.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - QHD BEIN SPORTS 4 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORT41.2MB.png" group-title="AR | BEIN SPORT",AR - QHD BEIN SPORTS 4 HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/27918.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - QHD BEIN SPORTS 5 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORT51.2MB.png" group-title="AR | BEIN SPORT",AR - QHD BEIN SPORTS 5 HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/27917.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - QHD BEIN SPORTS 6 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORT61.2MB.png" group-title="AR | BEIN SPORT",AR - QHD BEIN SPORTS 6 HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/27916.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - QHD BEIN SPORTS 7 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORT71.2MB.png" group-title="AR | BEIN SPORT",AR - QHD BEIN SPORTS 7 HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/27915.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - QHD BEIN SPORTS 8 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORT8720HD%C2%B2.png" group-title="AR | BEIN SPORT",AR - QHD BEIN SPORTS 8 HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/27914.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - QHD BEIN SPORTS 9 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTSHD9%C2%B3.png" group-title="AR | BEIN SPORT",AR - QHD BEIN SPORTS 9 HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/27913.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - QHD BEIN SPORTS 10 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORT10720HD%C2%B2.png" group-title="AR | BEIN SPORT",AR - QHD BEIN SPORTS 10 HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/27912.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - QHD BEIN SPORTS 11 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTS.png" group-title="AR | BEIN SPORT",AR - QHD BEIN SPORTS 11 HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/27911.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - QHD BEIN SPORTS 12 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTS.png" group-title="AR | BEIN SPORT",AR - QHD BEIN SPORTS 12 HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/27910.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - QHD BEIN SPORTS 13 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTS.png" group-title="AR | BEIN SPORT",AR - QHD BEIN SPORTS 13 HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/27909.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - QHD BEIN SPORTS 14 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTS.png" group-title="AR | BEIN SPORT",AR - QHD BEIN SPORTS 14 HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/27908.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - QHD BEIN SPORTS 15 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTS.png" group-title="AR | BEIN SPORT",AR - QHD BEIN SPORTS 15 HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/27907.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - QHD BEIN SPORTS 16 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTS.png" group-title="AR | BEIN SPORT",AR - QHD BEIN SPORTS 16 HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/27906.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - QHD BEIN SPORTS 17 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTS.png" group-title="AR | BEIN SPORT",AR - QHD BEIN SPORTS 17 HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/27905.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - QHD BEIN SPORTS NBA HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTNBA.png" group-title="AR | BEIN SPORT",AR - QHD BEIN SPORTS NBA HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/27904.ts
+#EXTINF:-1 tvg-id="" tvg-name="##### BEIN SPORT 4K #####" tvg-logo="" group-title="AR | BEIN SPORT",##### BEIN SPORT 4K #####
+http://borg.hopto.org:8090/html/greetings.mp4
+#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN  SPORT HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTS.png" group-title="AR | BEIN SPORT",AR - BEIN  SPORT HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/27902.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN SPORT HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTS.png" group-title="AR | BEIN SPORT",AR - BEIN SPORT HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/27926.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN SPORT NEWS HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTNEWS.png" group-title="AR | BEIN SPORT",AR - BEIN SPORT NEWS HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/27925.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN SPORTS 1 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTS.png" group-title="AR | BEIN SPORT",AR - BEIN SPORTS 1 HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/27901.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN SPORTS 2 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTSHD2%C2%B3.png" group-title="AR | BEIN SPORT",AR - BEIN SPORTS 2 HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/27900.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN SPORTS 3 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTSHD3%C2%B3.png" group-title="AR | BEIN SPORT",AR - BEIN SPORTS 3 HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/27899.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN SPORTS 4 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTHD4%C2%B3.png" group-title="AR | BEIN SPORT",AR - BEIN SPORTS 4 HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/27898.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN SPORTS 5 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTS5.png" group-title="AR | BEIN SPORT",AR - BEIN SPORTS 5 HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/27897.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN SPORTS 6 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTSHD6%C2%B3.png" group-title="AR | BEIN SPORT",AR - BEIN SPORTS 6 HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/27896.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN SPORTS 7 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTSHD7%C2%B3.png" group-title="AR | BEIN SPORT",AR - BEIN SPORTS 7 HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/27895.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN SPORTS 8 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTSHD8%C2%B3.png" group-title="AR | BEIN SPORT",AR - BEIN SPORTS 8 HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/27894.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN SPORTS 9 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORT9720HD%C2%B2.png" group-title="AR | BEIN SPORT",AR - BEIN SPORTS 9 HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/27893.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN SPORTS 10 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORT101.2MB.png" group-title="AR | BEIN SPORT",AR - BEIN SPORTS 10 HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/27892.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN SPORTS 11 HD EN" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTS.png" group-title="AR | BEIN SPORT",AR - BEIN SPORTS 11 HD EN
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/27891.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN SPORTS 12 HD EN" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTS.png" group-title="AR | BEIN SPORT",AR - BEIN SPORTS 12 HD EN
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/27890.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN SPORTS 13 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTS.png" group-title="AR | BEIN SPORT",AR - BEIN SPORTS 13 HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/27889.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN SPORTS 14 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTS.png" group-title="AR | BEIN SPORT",AR - BEIN SPORTS 14 HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/27888.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN SPORTS 15 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTS.png" group-title="AR | BEIN SPORT",AR - BEIN SPORTS 15 HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/27887.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN SPORTS 16 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTS.png" group-title="AR | BEIN SPORT",AR - BEIN SPORTS 16 HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/27886.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN SPORTS 17 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTS.png" group-title="AR | BEIN SPORT",AR - BEIN SPORTS 17 HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/27885.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN SPORTS NBA HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTNBA.png" group-title="AR | BEIN SPORT",AR - BEIN SPORTS NBA HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/27884.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - BEOUT Q 1 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEOUTQ.png" group-title="AR | BEIN SPORT",AR - BEOUT Q 1 HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/26378.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - BEOUT Q 2 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEOUTQ.png" group-title="AR | BEIN SPORT",AR - BEOUT Q 2 HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/26377.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - BEOUT Q 3 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEOUTQ.png" group-title="AR | BEIN SPORT",AR - BEOUT Q 3 HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/26376.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - BEOUT Q 4 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEOUTQ.png" group-title="AR | BEIN SPORT",AR - BEOUT Q 4 HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/26375.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - BEOUT Q 5 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEOUTQ.png" group-title="AR | BEIN SPORT",AR - BEOUT Q 5 HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/26374.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - BEOUT Q 6 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEOUTQ.png" group-title="AR | BEIN SPORT",AR - BEOUT Q 6 HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/26373.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - BEOUT Q 7 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEOUTQ.png" group-title="AR | BEIN SPORT",AR - BEOUT Q 7 HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/26372.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - S7T  AFLAM" tvg-logo="http://212.8.253.112/logo/MOROCCO/S7T.png" group-title="AR | MAROC",AR - S7T  AFLAM
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/27461.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - S7T  AFLAM HD" tvg-logo="http://212.8.253.112/logo/MOROCCO/S7T.png" group-title="AR | MAROC",AR - S7T  AFLAM HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/27460.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - S7T  ANIME" tvg-logo="http://212.8.253.112/logo/MOROCCO/S7T.png" group-title="AR | MAROC",AR - S7T  ANIME
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/27459.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - S7T  BOLLYWOOD" tvg-logo="http://212.8.253.112/logo/MOROCCO/S7T.png" group-title="AR | MAROC",AR - S7T  BOLLYWOOD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/27458.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - S7T  CARTOO" tvg-logo="http://212.8.253.112/logo/MOROCCO/S7T.png" group-title="AR | MAROC",AR - S7T  CARTOO
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/27457.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - S7T  CLASSIC" tvg-logo="http://212.8.253.112/logo/MOROCCO/S7T.png" group-title="AR | MAROC",AR - S7T  CLASSIC
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/27456.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - S7T  DOCUMENTAIRE" tvg-logo="http://212.8.253.112/logo/MOROCCO/S7T.png" group-title="AR | MAROC",AR - S7T  DOCUMENTAIRE
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/27455.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - S7T  HITS HD" tvg-logo="http://212.8.253.112/logo/MOROCCO/S7T.png" group-title="AR | MAROC",AR - S7T  HITS HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/27454.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - S7T  KOREAN" tvg-logo="http://212.8.253.112/logo/MOROCCO/S7T.png" group-title="AR | MAROC",AR - S7T  KOREAN
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/27453.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - S7T  MOVIES HD" tvg-logo="http://212.8.253.112/logo/MOROCCO/S7T.png" group-title="AR | MAROC",AR - S7T  MOVIES HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/27452.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - S7T  MUSIC HD" tvg-logo="http://212.8.253.112/logo/MOROCCO/S7T.png" group-title="AR | MAROC",AR - S7T  MUSIC HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/27451.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - S7T  SERIES" tvg-logo="http://212.8.253.112/logo/MOROCCO/S7T.png" group-title="AR | MAROC",AR - S7T  SERIES
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/27450.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - S7T  SPORT HD" tvg-logo="http://212.8.253.112/logo/MOROCCO/S7T.png" group-title="AR | MAROC",AR - S7T  SPORT HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/27449.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - S7T  TOURISME" tvg-logo="http://212.8.253.112/logo/MOROCCO/S7T.png" group-title="AR | MAROC",AR - S7T  TOURISME
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/27448.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - S7T  TURK" tvg-logo="http://212.8.253.112/logo/MOROCCO/S7T.png" group-title="AR | MAROC",AR - S7T  TURK
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/27447.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - HALA BOLLYWOOD" tvg-logo="" group-title="AR | MAROC",AR - HALA BOLLYWOOD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/32852.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - HALA DRAMA" tvg-logo="" group-title="AR | MAROC",AR - HALA DRAMA
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/32851.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - HALA MIX" tvg-logo="" group-title="AR | MAROC",AR - HALA MIX
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/32850.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - HALA MOVIES" tvg-logo="" group-title="AR | MAROC",AR - HALA MOVIES
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/32849.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - HALA SERIES" tvg-logo="" group-title="AR | MAROC",AR - HALA SERIES
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/32848.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - HALA TURK" tvg-logo="" group-title="AR | MAROC",AR - HALA TURK
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/32847.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - HALA TV" tvg-logo="http://212.8.253.112/logo/ALGERIA/HALATV.png" group-title="AR | ALGERIA",AR - HALA TV
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/19168.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - HALABA TV" tvg-logo="http://212.8.253.112/logo/EGYPT/HALABATV.png" group-title="AR | EGYPT",AR - HALABA TV
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/823.ts
+#EXTINF:-1 tvg-id="AlJazeeraArabic.qa" tvg-name="AR - AL JAZEERA HD" tvg-logo="http://212.8.253.112/logo/NEWS%26FACTUAL/ALJAZEERA.png" group-title="AR | ARABIC NEWS & FACTUAL",AR - AL JAZEERA HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/941.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - AL JAZEERA" tvg-logo="http://212.8.253.112/logo/NEWS%26FACTUAL/ALJAZEERA.png" group-title="AR | ARABIC NEWS & FACTUAL",AR - AL JAZEERA
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/936.ts
+#EXTINF:-1 tvg-id="Alarabiya.sa" tvg-name="AR - AL ARABIYA" tvg-logo="http://212.8.253.112/logo/NEWS%26FACTUAL/ALARABIYA.png" group-title="AR | ARABIC NEWS & FACTUAL",AR - AL ARABIYA
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/931.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - AL ARABIYA AL HADATH" tvg-logo="http://212.8.253.112/logo/NEWS%26FACTUAL/ALARABIYAALHADATH.png" group-title="AR | ARABIC NEWS & FACTUAL",AR - AL ARABIYA AL HADATH
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/930.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - AL ARABY HD" tvg-logo="http://212.8.253.112/logo/ARABE/ALARABYHD.png" group-title="AR | ARABIC NEWS & FACTUAL",AR - AL ARABY HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/937.ts
+#EXTINF:-1 tvg-id="BBCArabic.sa" tvg-name="AR - BBC ARABIC" tvg-logo="http://212.8.253.112/logo/NEWS%26FACTUAL/BBCARABIC.png" group-title="AR | ARABIC NEWS & FACTUAL",AR - BBC ARABIC
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/929.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - FRANCE 24" tvg-logo="http://212.8.253.112/logo/NEWS%26FACTUAL/FRANCE24.png" group-title="AR | ARABIC NEWS & FACTUAL",AR - FRANCE 24
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/922.ts
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-name="AR - AL JAZEERA ENGLISH" tvg-logo="http://212.8.253.112/logo/NEWS%26FACTUAL/ALJAZEERAENGLISHHD.png" group-title="AR | ARABIC NEWS & FACTUAL",AR - AL JAZEERA ENGLISH
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/919.ts
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-name="AR - AL JAZEERA ENGLISH HD" tvg-logo="http://212.8.253.112/logo/NEWS%26FACTUAL/ALJAZEERAENGLISHHD.png" group-title="AR | ARABIC NEWS & FACTUAL",AR - AL JAZEERA ENGLISH HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/940.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - AL JAZEERA DOCUMENTARY" tvg-logo="http://212.8.253.112/logo/NEWS%26FACTUAL/ALJAZEERADOCUMENTARY.png" group-title="AR | ARABIC NEWS & FACTUAL",AR - AL JAZEERA DOCUMENTARY
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/920.ts
+#EXTINF:-1 tvg-id="AlJazeeraDocumentary.qa" tvg-name="AR - AL JAZEERA DOCUMENTARY HD" tvg-logo="http://212.8.253.112/logo/NEWS%26FACTUAL/ALJAZEERADOCUMENTARY.png" group-title="AR | ARABIC NEWS & FACTUAL",AR - AL JAZEERA DOCUMENTARY HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/939.ts
+#EXTINF:-1 tvg-id="AlJazeeraMubasher.qa" tvg-name="AR - AL JAZEERA MUBASHER" tvg-logo="http://212.8.253.112/logo/NEWS%26FACTUAL/ALJAZEERAMUBASHER.png" group-title="AR | ARABIC NEWS & FACTUAL",AR - AL JAZEERA MUBASHER
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/935.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - CHOUROUK NEWS HD" tvg-logo="http://212.8.253.112/logo/ALGERIA/ECHOUROUKNEWS.png" group-title="AR | ALGERIA",AR - CHOUROUK NEWS HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/1036.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - DW ARABIC" tvg-logo="http://212.8.253.112/logo/NEWS%26FACTUAL/DWARABIC.png" group-title="AR | ARABIC NEWS & FACTUAL",AR - DW ARABIC
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/17707.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - TRT ARABIC" tvg-logo="http://212.8.253.112/logo/NEWS%26FACTUAL/TRTARABIC.png" group-title="AR | ARABIC NEWS & FACTUAL",AR - TRT ARABIC
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/17706.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - AL HURRA" tvg-logo="http://212.8.253.112/logo/ARABE/ALHURRA.png" group-title="AR | ARABIC NEWS & FACTUAL",AR - AL HURRA
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/924.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - AL HURRA IRAQ" tvg-logo="http://212.8.253.112/logo/IRAQ/ALHURRAIRAQ.png" group-title="AR | IRAK",AR - AL HURRA IRAQ
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/637.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - I24 NEWS FRENCH HD" tvg-logo="http://212.8.253.112/logo/NEWS%26FACTUAL/I24NEWSENGLISHHD.png" group-title="EU | France FHD",AR - I24 NEWS FRENCH HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/918.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - BBC WORLD NEWS" tvg-logo="http://212.8.253.112/logo/ARABE/BBCWORLDNEWS.png" group-title="AR | ARABIC NEWS & FACTUAL",AR - BBC WORLD NEWS
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/923.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - QUEST ARABIA" tvg-logo="http://212.8.253.112/logo/NEWS%26FACTUAL/QUESTARABIA.png" group-title="AR | ARABIC NEWS & FACTUAL",AR - QUEST ARABIA
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/912.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - ABU DHABI NGC HD" tvg-logo="http://212.8.253.112/logo/ARABE/ABUDHABINGCHD.png" group-title="AR | ARABIC NEWS & FACTUAL",AR - ABU DHABI NGC HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/938.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - AL ALAM NEWS CHANNEL" tvg-logo="http://212.8.253.112/logo/NEWS%26FACTUAL/SKYNEWS.png" group-title="AR | ARABIC NEWS & FACTUAL",AR - AL ALAM NEWS CHANNEL
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/934.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - SKY NEWS ARABIA" tvg-logo="http://212.8.253.112/logo/NEWS%26FACTUAL/SKYNEWS.png" group-title="AR | ARABIC NEWS & FACTUAL",AR - SKY NEWS ARABIA
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/933.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - RT ARAB" tvg-logo="http://212.8.253.112/logo/NEWS%26FACTUAL/RTARAB.png" group-title="AR | ARABIC NEWS & FACTUAL",AR - RT ARAB
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/926.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - ANN TV" tvg-logo="http://212.8.253.112/logo/ARABE/ANNTV.png" group-title="AR | ARABIC NEWS & FACTUAL",AR - ANN TV
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/925.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - CNBC ARABIYA" tvg-logo="http://212.8.253.112/logo/NEWS%26FACTUAL/CNBCARABIYA.png" group-title="AR | ARABIC NEWS & FACTUAL",AR - CNBC ARABIYA
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/921.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - AL HIWAR HD" tvg-logo="http://212.8.253.112/logo/NEWS%26FACTUAL/ALHIWARHD.png" group-title="AR | ARABIC NEWS & FACTUAL",AR - AL HIWAR HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/916.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - AL GHAD HD" tvg-logo="http://212.8.253.112/logo/NEWS%26FACTUAL/ALGHADHD.png" group-title="AR | ARABIC NEWS & FACTUAL",AR - AL GHAD HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/915.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - AL MUSTAKILA" tvg-logo="http://212.8.253.112/logo/NEWS%26FACTUAL/ALMUSTAKILLAHTV.png" group-title="AR | ARABIC NEWS & FACTUAL",AR - AL MUSTAKILA
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/914.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - KAIFA" tvg-logo="http://212.8.253.112/logo/NEWS%26FACTUAL/KAIFA.png" group-title="AR | ARABIC NEWS & FACTUAL",AR - KAIFA
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/913.ts
+#EXTINF:-1 tvg-id="" tvg-name="MYHD PREMIUM - Cinemachi Kidz HD" tvg-logo="http://212.8.253.112/logo/KIDS/DEAKIDS.png" group-title="AR | MYHD PREMIUM",MYHD PREMIUM - Cinemachi Kidz HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/31291.ts
+#EXTINF:-1 tvg-id="BBCArabic.sa" tvg-name="MYHD PREMIUM - BBC English HD" tvg-logo="http://212.8.253.112/logo/NEWS%26FACTUAL/BBCWORLDNEWS.png" group-title="AR | MYHD PREMIUM",MYHD PREMIUM - BBC English HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/31292.ts
+#EXTINF:-1 tvg-id="" tvg-name="MYHD PREMIUM - CNN HD" tvg-logo="http://212.8.253.112/logo/SCANDINAVIAN/CNN.png" group-title="AR | MYHD PREMIUM",MYHD PREMIUM - CNN HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/31289.ts
+#EXTINF:-1 tvg-id="" tvg-name="MYHD PREMIUM - DW HD" tvg-logo="http://212.8.253.112/logo/NEWS%26FACTUAL/DWARABIC.png" group-title="AR | MYHD PREMIUM",MYHD PREMIUM - DW HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/31286.ts
+#EXTINF:-1 tvg-id="AnimalPlanet.sa" tvg-name="MYHD PREMIUM - Animal Planet HD" tvg-logo="http://212.8.253.112/logo/OSN/OSNAnimalPlanetHD.png" group-title="AR | MYHD PREMIUM",MYHD PREMIUM - Animal Planet HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/31293.ts
+#EXTINF:-1 tvg-id="" tvg-name="MYHD PREMIUM - Discovery SC HD" tvg-logo="http://212.8.253.112/logo/SCANDINAVIAN/DISCOVERYSCIENCE.png" group-title="AR | MYHD PREMIUM",MYHD PREMIUM - Discovery SC HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/31288.ts
+#EXTINF:-1 tvg-id="" tvg-name="MYHD PREMIUM - PLANET EARTH HD" tvg-logo="http://212.8.253.112/logo/TURKIYE/PLANET%C3%87OCUK.png" group-title="AR | MYHD PREMIUM",MYHD PREMIUM - PLANET EARTH HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/31253.ts
+#EXTINF:-1 tvg-id="" tvg-name="MYHD PREMIUM - FIX FOXI HD" tvg-logo="http://212.8.253.112/logo/MYHD/myFIX%26FOXI.png" group-title="AR | MYHD PREMIUM",MYHD PREMIUM - FIX FOXI HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/31283.ts
+#EXTINF:-1 tvg-id="" tvg-name="MYHD PREMIUM - FILM BOX HD" tvg-logo="http://212.8.253.112/logo/OSN/OSNDocuBOXHD.png" group-title="AR | MYHD PREMIUM",MYHD PREMIUM - FILM BOX HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/31284.ts
+#EXTINF:-1 tvg-id="" tvg-name="MYHD PREMIUM - FOX REWAYAT HD" tvg-logo="http://212.8.253.112/logo/SCANDINAVIAN/FOXHD.png" group-title="AR | MYHD PREMIUM",MYHD PREMIUM - FOX REWAYAT HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/31278.ts
+#EXTINF:-1 tvg-id="" tvg-name="MYHD PREMIUM - FOX CRIME HD" tvg-logo="http://212.8.253.112/logo/SCANDINAVIAN/FOXHD.png" group-title="AR | MYHD PREMIUM",MYHD PREMIUM - FOX CRIME HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/31281.ts
+#EXTINF:-1 tvg-id="" tvg-name="MYHD PREMIUM - FX HD" tvg-logo="http://212.8.253.112/logo/MYHD/myFXHD.png" group-title="AR | MYHD PREMIUM",MYHD PREMIUM - FX HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/31277.ts
+#EXTINF:-1 tvg-id="" tvg-name="MYHD PREMIUM - STAR MOVIES HD" tvg-logo="http://212.8.253.112/logo/OSN/OSNSTARMOVIEHD.png" group-title="AR | MYHD PREMIUM",MYHD PREMIUM - STAR MOVIES HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/31252.ts
+#EXTINF:-1 tvg-id="" tvg-name="MYHD PREMIUM - STAR WORLD HD" tvg-logo="http://212.8.253.112/logo/OSN/OSNSTARWORDHD.png" group-title="AR | MYHD PREMIUM",MYHD PREMIUM - STAR WORLD HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/31251.ts
+#EXTINF:-1 tvg-id="" tvg-name="MYHD PREMIUM - Cinemachi Movies HD" tvg-logo="ttp://212.8.253.112/logo/MYHD/myCINEMACHIKIDS.png" group-title="AR | MYHD PREMIUM",MYHD PREMIUM - Cinemachi Movies HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/31290.ts
+#EXTINF:-1 tvg-id="" tvg-name="MYHD PREMIUM - Docubox HD" tvg-logo="http://212.8.253.112/logo/OSN/OSNDocuBOXHD.png" group-title="AR | MYHD PREMIUM",MYHD PREMIUM - Docubox HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/31287.ts
+#EXTINF:-1 tvg-id="" tvg-name="MYHD PREMIUM - Fight Box HD" tvg-logo="http://212.8.253.112/logo/OSN/OSNFightBoxHD.png" group-title="AR | MYHD PREMIUM",MYHD PREMIUM - Fight Box HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/31285.ts
+#EXTINF:-1 tvg-id="" tvg-name="MYHD PREMIUM - FOX ACTION MOVIES HD" tvg-logo="http://212.8.253.112/logo/MYHD/myFOXMOVIESHD.png" group-title="AR | MYHD PREMIUM",MYHD PREMIUM - FOX ACTION MOVIES HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/31282.ts
+#EXTINF:-1 tvg-id="" tvg-name="MYHD PREMIUM - FOX FAMILY MOVIES HD" tvg-logo="http://212.8.253.112/logo/MYHD/myFOXFAMILYHD.png" group-title="AR | MYHD PREMIUM",MYHD PREMIUM - FOX FAMILY MOVIES HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/31280.ts
+#EXTINF:-1 tvg-id="" tvg-name="MYHD PREMIUM - FOX LIFE HD" tvg-logo="http://212.8.253.112/logo/SCANDINAVIAN/FOXHD.png" group-title="AR | MYHD PREMIUM",MYHD PREMIUM - FOX LIFE HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/31279.ts
+#EXTINF:-1 tvg-id="" tvg-name="MYHD PREMIUM - GUEST HD" tvg-logo="http://212.8.253.112/logo/USA/GSNFHD.png" group-title="AR | MYHD PREMIUM",MYHD PREMIUM - GUEST HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/31276.ts
+#EXTINF:-1 tvg-id="" tvg-name="MYHD PREMIUM - GULLI BIL ARABIE HD" tvg-logo="http://212.8.253.112/logo/MBCGROUP/GULLIBIALARABI.png" group-title="AR | MYHD PREMIUM",MYHD PREMIUM - GULLI BIL ARABIE HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/31275.ts
+#EXTINF:-1 tvg-id="" tvg-name="MYHD PREMIUM - ITV CHOICE HD" tvg-logo="http://212.8.253.112/logo/OSN/OSNITVChoiceHD.png" group-title="AR | MYHD PREMIUM",MYHD PREMIUM - ITV CHOICE HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/31274.ts
+#EXTINF:-1 tvg-id="" tvg-name="MYHD PREMIUM - LAAB WA JAD HD" tvg-logo="http://212.8.253.112/logo/KIDS/JEEMKIDS.png" group-title="AR | MYHD PREMIUM",MYHD PREMIUM - LAAB WA JAD HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/31273.ts
+#EXTINF:-1 tvg-id="" tvg-name="MYHD PREMIUM - MYZEN HD" tvg-logo="http://212.8.253.112/logo/JORDAN/ZWEINABALADNA.png" group-title="AR | MYHD PREMIUM",MYHD PREMIUM - MYZEN HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/31256.ts
+#EXTINF:-1 tvg-id="" tvg-name="MYHD PREMIUM - NAHAR DRAMA HD" tvg-logo="http://212.8.253.112/logo/EGYPT/ALNAHARDRAMA.png" group-title="AR | MYHD PREMIUM",MYHD PREMIUM - NAHAR DRAMA HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/31255.ts
+#EXTINF:-1 tvg-id="" tvg-name="MYHD PREMIUM - NAHAR ONE HD" tvg-logo="http://212.8.253.112/logo/EGYPT/ALNAHARONE.png" group-title="AR | MYHD PREMIUM",MYHD PREMIUM - NAHAR ONE HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/31254.ts
+#EXTINF:-1 tvg-id="" tvg-name="MYHD PREMIUM - MUSIC ALWAYS HD" tvg-logo="http://212.8.253.112/logo/LATINO/MIMUSICA.png" group-title="AR | MYHD PREMIUM",MYHD PREMIUM - MUSIC ALWAYS HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/31260.ts
+#EXTINF:-1 tvg-id="" tvg-name="MYHD PREMIUM - MUSIC TROPICAL HD" tvg-logo="http://212.8.253.112/logo/LATINO/MIMUSICA.png" group-title="AR | MYHD PREMIUM",MYHD PREMIUM - MUSIC TROPICAL HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/31259.ts
+#EXTINF:-1 tvg-id="" tvg-name="MYHD PREMIUM - MUSIC24 HD" tvg-logo="http://212.8.253.112/logo/OSN/OSNMusic24HD.png" group-title="AR | MYHD PREMIUM",MYHD PREMIUM - MUSIC24 HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/31258.ts
+#EXTINF:-1 tvg-id="" tvg-name="MYHD PREMIUM - WOW SPORT HD" tvg-logo="http://212.8.253.112/logo/UK/BTSPORTS1.png" group-title="AR | MYHD PREMIUM",MYHD PREMIUM - WOW SPORT HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/31250.ts
+#EXTINF:-1 tvg-id="" tvg-name="MYHD PREMIUM - MY CINEMA HD" tvg-logo="http://212.8.253.112/logo/MYHD/myCINEMACHIKIDS.png" group-title="AR | MYHD PREMIUM",MYHD PREMIUM - MY CINEMA HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/31257.ts
+#EXTINF:-1 tvg-id="RotanaAflam.eg" tvg-name="AR - ROTANA AFLAM HD" tvg-logo="http://212.8.253.112/logo/ROTANA/ROTANAAFLAM.png" group-title="AR | ROTANA",AR - ROTANA AFLAM HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/21268.ts
+#EXTINF:-1 tvg-id="RotanaAflam.eg" tvg-name="AR - ROTANA CINEMA HD" tvg-logo="http://212.8.253.112/logo/ROTANA/ROTANACINEMA.png" group-title="AR | ROTANA",AR - ROTANA CINEMA HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/21267.ts
+#EXTINF:-1 tvg-id="RotanaClassic.eg" tvg-name="AR - ROTANA CLASSIC HD" tvg-logo="http://212.8.253.112/logo/ROTANA/ROTANACLASSIC.png" group-title="AR | ROTANA",AR - ROTANA CLASSIC HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/21266.ts
+#EXTINF:-1 tvg-id="RotanaKhalijiah.eg" tvg-name="AR - ROTANA KHALIJIA HD" tvg-logo="http://212.8.253.112/logo/ROTANA/ROTANAKHALIJIA.png" group-title="AR | ROTANA",AR - ROTANA KHALIJIA HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/21265.ts
+#EXTINF:-1 tvg-id="RotanaMasriyah.eg" tvg-name="AR - ROTANA MASRIYA HD" tvg-logo="http://212.8.253.112/logo/ROTANA/ROTANAMASRIYA.png" group-title="AR | ROTANA",AR - ROTANA MASRIYA HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/21264.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - ROTANA MUSIC HD" tvg-logo="http://212.8.253.112/logo/ROTANA/ROTANAMUSIC.png" group-title="AR | ROTANA",AR - ROTANA MUSIC HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/21263.ts
+#EXTINF:-1 tvg-id="RotanaCinema.eg" tvg-name="AR - ROTANA" tvg-logo="http://212.8.253.112/logo/ROTANA/ROTANA.png" group-title="AR | ROTANA",AR - ROTANA
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/966.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - ROTANA CINEMA" tvg-logo="http://212.8.253.112/logo/ROTANA/ROTANACINEMA.png" group-title="AR | ROTANA",AR - ROTANA CINEMA
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/964.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - ROTANA CINEMA KSA" tvg-logo="http://212.8.253.112/logo/ROTANA/ROTANACINEMAKASA.png" group-title="AR | ROTANA",AR - ROTANA CINEMA KSA
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/963.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - ROTANA CLASSIC" tvg-logo="http://212.8.253.112/logo/ROTANA/ROTANACLASSIC.png" group-title="AR | ROTANA",AR - ROTANA CLASSIC
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/962.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - ROTANA CLIP" tvg-logo="http://212.8.253.112/logo/ROTANA/ROTANACLIP.png" group-title="AR | ROTANA",AR - ROTANA CLIP
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/965.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - ROTANA DRAMA" tvg-logo="http://212.8.253.112/logo/ROTANA/ROTANADRAMA.png" group-title="AR | ROTANA",AR - ROTANA DRAMA
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/961.ts
+#EXTINF:-1 tvg-id="RotanaKhalijiah.eg" tvg-name="AR - ROTANA KHALIJIAH" tvg-logo="http://212.8.253.112/logo/ROTANA/ROTANAKHALIJEAH.png" group-title="AR | ROTANA",AR - ROTANA KHALIJIAH
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/960.ts
+#EXTINF:-1 tvg-id="AbuDhabiSports1.ae" tvg-name="AR - ABUDHABI SPORTS 1 HD" tvg-logo="http://212.8.253.112/logo/ABUDABISPORT/ABUDHABISPORTS1.png" group-title="AR | ABU DHABI SPORTS",AR - ABUDHABI SPORTS 1 HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/22039.ts
+#EXTINF:-1 tvg-id="AbuDhabiSports2.ae" tvg-name="AR - ABUDHABI SPORTS 2 HD" tvg-logo="http://212.8.253.112/logo/ABUDABISPORT/ABUDHABISPORTS2.png" group-title="AR | ABU DHABI SPORTS",AR - ABUDHABI SPORTS 2 HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/22038.ts
+#EXTINF:-1 tvg-id="AbuDhabiSports3.ae" tvg-name="AR - ABUDHABI SPORTS 3 HD" tvg-logo="http://212.8.253.112/logo/ABUDABISPORT/ABUDHABISPORTS3.png" group-title="AR | ABU DHABI SPORTS",AR - ABUDHABI SPORTS 3 HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/22037.ts
+#EXTINF:-1 tvg-id="AbuDhabiSports4.ae" tvg-name="AR - ABUDHABI SPORTS 4 HD" tvg-logo="http://212.8.253.112/logo/ABUDABISPORT/ABUDHABISPORTS4.png" group-title="AR | ABU DHABI SPORTS",AR - ABUDHABI SPORTS 4 HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/22036.ts
+#EXTINF:-1 tvg-id="AbuDhabiSports5.ae" tvg-name="AR - ABUDHABI SPORTS 5 HD" tvg-logo="http://212.8.253.112/logo/ABUDABISPORT/ABUDHABISPORTS5.png" group-title="AR | ABU DHABI SPORTS",AR - ABUDHABI SPORTS 5 HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/22035.ts
+#EXTINF:-1 tvg-id="AbuDhabiSports6.ae" tvg-name="AR - ABUDHABI SPORTS 6 HD" tvg-logo="http://212.8.253.112/logo/ABUDABISPORT/ABUDHABISPORTS6.png" group-title="AR | ABU DHABI SPORTS",AR - ABUDHABI SPORTS 6 HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/22034.ts
+#EXTINF:-1 tvg-id="" tvg-name="##### BEIN MOVIES #####" tvg-logo="" group-title="AR | BEIN ENTERTAINMENT",##### BEIN MOVIES #####
+http://borg.hopto.org:8090/html/greetings.mp4
+#EXTINF:-1 tvg-id="beINMovies1.qa" tvg-name="AR - 4K - BEIN MOVIES 1 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINMOVIES.png" group-title="AR | BEIN ENTERTAINMENT",AR - 4K - BEIN MOVIES 1 HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/27974.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - 4K - BEIN MOVIES 2 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINMOVIES.png" group-title="AR | BEIN ENTERTAINMENT",AR - 4K - BEIN MOVIES 2 HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/27973.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - 4K - BEIN MOVIES 3 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINMOVIES.png" group-title="AR | BEIN ENTERTAINMENT",AR - 4K - BEIN MOVIES 3 HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/27972.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - 4K - BEIN MOVIES 4 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINMOVIES.png" group-title="AR | BEIN ENTERTAINMENT",AR - 4K - BEIN MOVIES 4 HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/27971.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN AMC HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINAMC.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN AMC HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/27954.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN FOX ACTION MOVIES HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINFOX.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN FOX ACTION MOVIES HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/27948.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN FOX FAMILY MOVIES HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINFOX.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN FOX FAMILY MOVIES HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/27947.ts
+#EXTINF:-1 tvg-id="" tvg-name="##### BEIN MOVIES 4K #####" tvg-logo="" group-title="AR | BEIN ENTERTAINMENT",##### BEIN MOVIES 4K #####
+http://borg.hopto.org:8090/html/greetings.mp4
+#EXTINF:-1 tvg-id="beINMovies1.qa" tvg-name="AR - BEIN MOVIES 1 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINMOVIES.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN MOVIES 1 HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/27979.ts
+#EXTINF:-1 tvg-id="beINMovies2.qa" tvg-name="AR - BEIN MOVIES 2 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINMOVIES.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN MOVIES 2 HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/27978.ts
+#EXTINF:-1 tvg-id="beINMovies3.qa" tvg-name="AR - BEIN MOVIES 3 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINMOVIES.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN MOVIES 3 HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/27977.ts
+#EXTINF:-1 tvg-id="beINMovies4.qa" tvg-name="AR - BEIN MOVIES 4 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINMOVIES.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN MOVIES 4 HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/27976.ts
+#EXTINF:-1 tvg-id="" tvg-name="##### BEIN SERIAL & MOVIES #####" tvg-logo="" group-title="AR | BEIN ENTERTAINMENT",##### BEIN SERIAL & MOVIES #####
+http://borg.hopto.org:8090/html/greetings.mp4
+#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN SERIES 1 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSERIES.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN SERIES 1 HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/27969.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN SERIES 2 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSERIES.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN SERIES 2 HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/27968.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN BARAEM HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINBARAEM.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN BARAEM HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/27964.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN DRAMA 1 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINDRAMA.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN DRAMA 1 HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/27967.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN FOX HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINFOX.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN FOX HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/27960.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN BEJUNIOR" tvg-logo="http://212.8.253.112/logo/BEIN/BEINBEJUNIOR.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN BEJUNIOR
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/27963.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN BOOMERANG HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINBOOMERANG.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN BOOMERANG HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/27953.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN CARTON NETWORK HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINCARTONNETWORK.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN CARTON NETWORK HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/27962.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN FATAFEAT" tvg-logo="http://212.8.253.112/logo/BEIN/BEINFATAFEAT.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN FATAFEAT
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/27961.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN JEEM HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINJEEMHD.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN JEEM HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/27958.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN DISCOVERY KIDS HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINDISCOVERYKIDS.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN DISCOVERY KIDS HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/27952.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN DISCOVERY LIFE HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINDISCOVERYLIFE.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN DISCOVERY LIFE HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/27951.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN DISCOVERY MAX HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINDISCOVERYMAX.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN DISCOVERY MAX HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/27950.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN DISCOVERY TURBO XTRA" tvg-logo="http://212.8.253.112/logo/BEIN/BEINDISCOVERYTURBOXTRA.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN DISCOVERY TURBO XTRA
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/27949.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN GOURMETHD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINGOURMETHD.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN GOURMETHD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/27965.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN HGTV HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINHGTV.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN HGTV HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/27959.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN NAT GEO" tvg-logo="http://212.8.253.112/logo/BEIN/BEINNATGEO.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN NAT GEO
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/27957.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN NAT PEOPLE" tvg-logo="http://212.8.253.112/logo/BEIN/BEINNATPEOPLE.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN NAT PEOPLE
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/27956.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN NAT WILD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINNATWILD.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN NAT WILD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/27955.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN TRAVEL HD" tvg-logo="" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN TRAVEL HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/27966.ts
+#EXTINF:-1 tvg-id="" tvg-name="OSN2 - OSN NICKELODEON HD" tvg-logo="http://212.8.253.112/logo/OSN/OSNNickelodeonHD.png" group-title="AR | OSN",OSN2 - OSN NICKELODEON HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/31105.ts
+#EXTINF:-1 tvg-id="ARTAflam1.sa" tvg-name="OSN2 - ART AFLAM 1" tvg-logo="http://185.79.114.21:88/logos/OSN%20ART%20AFLAM%201.png" group-title="AR | OSN",OSN2 - ART AFLAM 1
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/31134.ts
+#EXTINF:-1 tvg-id="ARTAflam2.sa" tvg-name="OSN2 - ART AFLAM 2" tvg-logo="http://185.79.114.21:88/logos/OSN%20ART%20AFLAM%202.png" group-title="AR | OSN",OSN2 - ART AFLAM 2
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/31133.ts
+#EXTINF:-1 tvg-id="ARTCinema.sa" tvg-name="OSN2 - ART CINEMA" tvg-logo="http://185.79.114.21:88/logos/OSN%20ART%20CINEMA.png" group-title="AR | OSN",OSN2 - ART CINEMA
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/31132.ts
+#EXTINF:-1 tvg-id="Hekayat.sa" tvg-name="OSN2 - ART HEKAYAT" tvg-logo="http://185.79.114.21:88/logos/OSN%20ART%20HEKAYAT.png" group-title="AR | OSN",OSN2 - ART HEKAYAT
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/31131.ts
+#EXTINF:-1 tvg-id="Hekayat2.sa" tvg-name="OSN2 - ART HEKAYAT 2" tvg-logo="http://185.79.114.21:88/logos/OSN%20ART%20HEKAYAT.png" group-title="AR | OSN",OSN2 - ART HEKAYAT 2
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/31130.ts
+#EXTINF:-1 tvg-id="OSNYahala.ae" tvg-name="OSN2 - OSN YAHALA OULA HD" tvg-logo="http://212.8.253.112/logo/OSN/OSNYAHALAOULA.png" group-title="AR | OSN",OSN2 - OSN YAHALA OULA HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/31092.ts
+#EXTINF:-1 tvg-id="OSNYahalaCinema.ae" tvg-name="OSN2 - OSN YAHALA CINEMA HD" tvg-logo="http://212.8.253.112/logo/OSN/OSNYAHALACINEMA.png" group-title="AR | OSN",OSN2 - OSN YAHALA CINEMA HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/31094.ts
+#EXTINF:-1 tvg-id="OSNYahala.ae" tvg-name="OSN2 - OSN YAHALA HD" tvg-logo="http://212.8.253.112/logo/OSN/OSNYAHALAHD.png" group-title="AR | OSN",OSN2 - OSN YAHALA HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/31093.ts
+#EXTINF:-1 tvg-id="" tvg-name="OSN2 - OSN ALFA MUSALSALAT HD" tvg-logo="http://212.8.253.112/logo/OSN/OSNALFAALFANNHD.png" group-title="AR | OSN",OSN2 - OSN ALFA MUSALSALAT HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/31123.ts
+#EXTINF:-1 tvg-id="" tvg-name="OSN2 - OSN ALFA ALFANN HD" tvg-logo="http://212.8.253.112/logo/OSN/OSNALFAALFANNHD.png" group-title="AR | OSN",OSN2 - OSN ALFA ALFANN HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/31128.ts
+#EXTINF:-1 tvg-id="" tvg-name="OSN2 - OSN ALFA ALSAFWA HD" tvg-logo="http://212.8.253.112/logo/OSN/OSNALFAALFANNHD.png" group-title="AR | OSN",OSN2 - OSN ALFA ALSAFWA HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/31127.ts
+#EXTINF:-1 tvg-id="" tvg-name="OSN2 - OSN ALFA ALYOUM HD" tvg-logo="http://212.8.253.112/logo/OSN/OSNALFAALFANNHD.png" group-title="AR | OSN",OSN2 - OSN ALFA ALYOUM HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/31126.ts
+#EXTINF:-1 tvg-id="OSNYahalaCinema.ae" tvg-name="OSN2 - OSN ALFA CINEMA 1 HD" tvg-logo="http://212.8.253.112/logo/OSN/OSNALFAALFANNHD.png" group-title="AR | OSN",OSN2 - OSN ALFA CINEMA 1 HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/31125.ts
+#EXTINF:-1 tvg-id="OSNYahalaCinema.ae" tvg-name="OSN2 - OSN ALFA CINEMA 2 HD" tvg-logo="http://212.8.253.112/logo/OSN/OSNALFAALFANNHD.png" group-title="AR | OSN",OSN2 - OSN ALFA CINEMA 2 HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/31124.ts
+#EXTINF:-1 tvg-id="" tvg-name="OSN2 - OSN ALFA MUSIC NOW HD" tvg-logo="http://212.8.253.112/logo/OSN/OSNALFAALFANNHD.png" group-title="AR | OSN",OSN2 - OSN ALFA MUSIC NOW HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/31122.ts
+#EXTINF:-1 tvg-id="OSNMoviesKids.ae" tvg-name="OSN2 - OSN MOVIES KIDS HD" tvg-logo="http://212.8.253.112/logo/OSN/OSNMoviesKidsHD.png" group-title="AR | OSN",OSN2 - OSN MOVIES KIDS HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/31109.ts
+#EXTINF:-1 tvg-id="" tvg-name="OSN2 - OSN DISCOVERY HD" tvg-logo="http://212.8.253.112/logo/OSN/OSNDiscoveryChannelHD.png" group-title="AR | OSN",OSN2 - OSN DISCOVERY HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/31120.ts
+#EXTINF:-1 tvg-id="" tvg-name="OSN2 - OSN DISCOVERY SC HD" tvg-logo="http://212.8.253.112/logo/OSN/OSNDiscoveryScienceHD.png" group-title="AR | OSN",OSN2 - OSN DISCOVERY SC HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/31119.ts
+#EXTINF:-1 tvg-id="" tvg-name="OSN2 - OSN ANIMAL PLANET HD" tvg-logo="http://212.8.253.112/logo/OSN/OSNAnimalPlanetHD.png" group-title="AR | OSN",OSN2 - OSN ANIMAL PLANET HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/31121.ts
+#EXTINF:-1 tvg-id="" tvg-name="OSN2 - OSN NAT GEO WILD HD" tvg-logo="http://212.8.253.112/logo/OSN/OSNNatGEOWildHD.png" group-title="AR | OSN",OSN2 - OSN NAT GEO WILD HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/31107.ts
+#EXTINF:-1 tvg-id="" tvg-name="OSN2 - OSN NAT PEOPLE HD" tvg-logo="http://212.8.253.112/logo/OSN/OSNNATPEOPLEHD.png" group-title="AR | OSN",OSN2 - OSN NAT PEOPLE HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/31106.ts
+#EXTINF:-1 tvg-id="" tvg-name="OSN2 - OSN HISTORY HD" tvg-logo="http://212.8.253.112/logo/OSN/OSNHistoryChannelHD.png" group-title="AR | OSN",OSN2 - OSN HISTORY HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/31116.ts
+#EXTINF:-1 tvg-id="" tvg-name="OSN2 - OSN TRAVEL HD" tvg-logo="http://212.8.253.112/logo/OSN/OSNTRAVELCHANEL.png" group-title="AR | OSN",OSN2 - OSN TRAVEL HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/31096.ts
+#EXTINF:-1 tvg-id="OSNMoviesAction.ae" tvg-name="OSN2 - OSN MOVIES ACTION HD" tvg-logo="http://212.8.253.112/logo/OSN/OSNMoviesActionHD.png" group-title="AR | OSN",OSN2 - OSN MOVIES ACTION HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/31113.ts
+#EXTINF:-1 tvg-id="OSNMovies.ae" tvg-name="OSN2 - OSN MOVIES DISNEY HD" tvg-logo="http://212.8.253.112/logo/OSN/OSNMOVIESDISNEYHD.png" group-title="AR | OSN",OSN2 - OSN MOVIES DISNEY HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/31112.ts
+#EXTINF:-1 tvg-id="OSNMovies.ae" tvg-name="OSN2 - OSN MOVIES HD" tvg-logo="http://212.8.253.112/logo/OSN/OSNMoviesHD.png" group-title="AR | OSN",OSN2 - OSN MOVIES HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/31110.ts
+#EXTINF:-1 tvg-id="OSNFirstHBO.ae" tvg-name="OSN2 - OSN MOVIES FIRST HD" tvg-logo="http://212.8.253.112/logo/OSN/OSNMoviesFirstHD.png" group-title="AR | OSN",OSN2 - OSN MOVIES FIRST HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/31111.ts
+#EXTINF:-1 tvg-id="OSNMoviesThriller.ae" tvg-name="OSN2 - OSN MOVIES THRILLER HD" tvg-logo="http://212.8.253.112/logo/OSN/OSNMoviesThrillerHD.png" group-title="AR | OSN",OSN2 - OSN MOVIES THRILLER HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/31108.ts
+#EXTINF:-1 tvg-id="" tvg-name="OSN2 - OSN SERIES COMEDY HD" tvg-logo="http://212.8.253.112/logo/OSN/OSNSeriesComedyHD.png" group-title="AR | OSN",OSN2 - OSN SERIES COMEDY HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/31104.ts
+#EXTINF:-1 tvg-id="" tvg-name="OSN2 - OSN SERIES FIRST HD" tvg-logo="http://212.8.253.112/logo/OSN/OSNSeriesFirstHD.png" group-title="AR | OSN",OSN2 - OSN SERIES FIRST HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/31103.ts
+#EXTINF:-1 tvg-id="" tvg-name="OSN2 - OSN SERIES HD" tvg-logo="http://212.8.253.112/logo/OSN/OSNSERIESHD.png" group-title="AR | OSN",OSN2 - OSN SERIES HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/31102.ts
+#EXTINF:-1 tvg-id="" tvg-name="OSN2 - OSN STAR MOVIES HD" tvg-logo="http://212.8.253.112/logo/OSN/OSNSTARMOVIEHD.png" group-title="AR | OSN",OSN2 - OSN STAR MOVIES HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/31101.ts
+#EXTINF:-1 tvg-id="" tvg-name="OSN2 - OSN STAR WORLD HD" tvg-logo="http://212.8.253.112/logo/OSN/OSNSTARWORDHD.png" group-title="AR | OSN",OSN2 - OSN STAR WORLD HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/31100.ts
+#EXTINF:-1 tvg-id="" tvg-name="OSN2 - OSN SYFY HD" tvg-logo="http://212.8.253.112/logo/OSN/OSNSYFYHD.png" group-title="AR | OSN",OSN2 - OSN SYFY HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/31099.ts
+#EXTINF:-1 tvg-id="" tvg-name="OSN2 - OSN TLC HD" tvg-logo="http://212.8.253.112/logo/OSN/OSNTLCHD.png" group-title="AR | OSN",OSN2 - OSN TLC HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/31097.ts
+#EXTINF:-1 tvg-id="" tvg-name="OSN2 - BEIN OUTDOOR HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINGOURMETHD.png" group-title="AR | OSN",OSN2 - BEIN OUTDOOR HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/31129.ts
+#EXTINF:-1 tvg-id="OSNFirstHBO.ae" tvg-name="OSN2 - OSN FIRST HBO HD" tvg-logo="http://212.8.253.112/logo/OSN/OSNFirstHBOHD.png" group-title="AR | OSN",OSN2 - OSN FIRST HBO HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/31117.ts
+#EXTINF:-1 tvg-id="" tvg-name="OSN2 - OSN ITV CHOICE" tvg-logo="http://212.8.253.112/logo/OSN/OSNITVChoiceHD.png" group-title="AR | OSN",OSN2 - OSN ITV CHOICE
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/31115.ts
+#EXTINF:-1 tvg-id="" tvg-name="OSN2 - OSN LIVING HD" tvg-logo="http://212.8.253.112/logo/OSN/OSNLIVINGHD.png" group-title="AR | OSN",OSN2 - OSN LIVING HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/31114.ts
+#EXTINF:-1 tvg-id="" tvg-name="OSN2 - OSN DISNEY JUNIOR HD" tvg-logo="http://212.8.253.112/logo/OSN/OSNDisneyJunior.png" group-title="AR | OSN",OSN2 - OSN DISNEY JUNIOR HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/31118.ts
+#EXTINF:-1 tvg-id="" tvg-name="OSN2 - OSN TEN SPORT HD" tvg-logo="http://212.8.253.112/logo/OSN/OSNTENSPORTHD.png" group-title="AR | OSN",OSN2 - OSN TEN SPORT HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/31098.ts
+#EXTINF:-1 tvg-id="OSNWWENetwork.ae" tvg-name="OSN2 - OSN WWE HD" tvg-logo="http://212.8.253.112/logo/OSN/OSNWWENETWORKHD.png" group-title="AR | OSN",OSN2 - OSN WWE HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/31095.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - SAUDI 1" tvg-logo="http://212.8.253.112/logo/SAUDIARABIA/SAUDI1.png" group-title="AR | SAOUDI",AR - SAUDI 1
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/910.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - SAUDI 24" tvg-logo="http://212.8.253.112/logo/SAUDIARABIA/SAUDI24.png" group-title="AR | SAOUDI",AR - SAUDI 24
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/908.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - SAUDI ANTI TERRORISM" tvg-logo="http://212.8.253.112/logo/SAUDIARABIA/SAUDIANTITERRORISM.png" group-title="AR | SAOUDI",AR - SAUDI ANTI TERRORISM
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/905.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - SAUDI FAMILY" tvg-logo="http://212.8.253.112/logo/SAUDIARABIA/SAUDIFAMILY.png" group-title="AR | SAOUDI",AR - SAUDI FAMILY
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/907.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - SAUDI QURAN" tvg-logo="http://212.8.253.112/logo/ISLAMIC/AHELALQURAN.png" group-title="AR | ISLAMIC",AR - SAUDI QURAN
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/886.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - SAUDI SPORT" tvg-logo="http://212.8.253.112/logo/ARABE/SAUDI2HD.png" group-title="AR | SAOUDI",AR - SAUDI SPORT
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/904.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - SAUDI SUNNAH" tvg-logo="http://212.8.253.112/logo/SAUDIARABIA/SAUDISUNNAH.png" group-title="AR | SAOUDI",AR - SAUDI SUNNAH
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/895.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - KSA SPORTS 1 HD" tvg-logo="http://185.79.114.21:88/logos/SAUDI%20FAMILY.png" group-title="AR | SAOUDI",AR - KSA SPORTS 1 HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/19164.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - KSA SPORTS 2 HD" tvg-logo="http://212.8.253.112/logo/ARABE/KSASPORTS.png" group-title="AR | SAOUDI",AR - KSA SPORTS 2 HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/26603.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - KSA SPORTS PLUS 1 HD" tvg-logo="http://212.8.253.112/logo/ARABE/KSASPORTS.png" group-title="AR | SAOUDI",AR - KSA SPORTS PLUS 1 HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/26602.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - KSA SPORTS PLUS 2 HD" tvg-logo="http://212.8.253.112/logo/ARABE/KSASPORTS.png" group-title="AR | SAOUDI",AR - KSA SPORTS PLUS 2 HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/26601.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - DAWRI PLUS 1 HD" tvg-logo="http://212.8.253.112/logo/SAUDIARABIA/DAWRIPLUS.png" group-title="AR | SAOUDI",AR - DAWRI PLUS 1 HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/26607.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - DAWRI PLUS 2 HD" tvg-logo="http://212.8.253.112/logo/SAUDIARABIA/DAWRIPLUS.png" group-title="AR | SAOUDI",AR - DAWRI PLUS 2 HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/26606.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - DAWRI PLUS 3 HD" tvg-logo="http://212.8.253.112/logo/SAUDIARABIA/DAWRIPLUS.png" group-title="AR | SAOUDI",AR - DAWRI PLUS 3 HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/26605.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - AL AMAKEN DRAMA" tvg-logo="http://212.8.253.112/logo/SAUDIARABIA/ALAMAKENDRAMA.png" group-title="AR | SAOUDI",AR - AL AMAKEN DRAMA
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/906.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - AL MERGAB" tvg-logo="http://212.8.253.112/logo/ARABE/ALMERGAB.png" group-title="AR | SAOUDI",AR - AL MERGAB
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/902.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - MASDAR TV" tvg-logo="http://212.8.253.112/logo/ARABE/MASDARTV.png" group-title="AR | SAOUDI",AR - MASDAR TV
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/900.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - BAHRAIN INTERNATIONAL" tvg-logo="http://212.8.253.112/logo/BAHRAIN/BAHRAININTERNATIONAL.png" group-title="AR | BAHRAIN",AR - BAHRAIN INTERNATIONAL
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/730.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - BAHRAIN INTERNATIONAL HD" tvg-logo="http://212.8.253.112/logo/ARABE/BAHRAININTERNATIONAL.png" group-title="AR | BAHRAIN",AR - BAHRAIN INTERNATIONAL HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/732.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - BAHRAIN QURAN" tvg-logo="http://212.8.253.112/logo/BAHRAIN/BAHRAINQURAN.png" group-title="AR | BAHRAIN",AR - BAHRAIN QURAN
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/729.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - BAHRAIN SPORTS 1 HD" tvg-logo="http://212.8.253.112/logo/ARABE/BAHRAINTVHD.png" group-title="AR | BAHRAIN",AR - BAHRAIN SPORTS 1 HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/735.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - BAHRAIN SPORTS 2 HD" tvg-logo="http://212.8.253.112/logo/ARABE/BAHRAINTVHD.png" group-title="AR | BAHRAIN",AR - BAHRAIN SPORTS 2 HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/734.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - BAHRAIN TV  HD" tvg-logo="http://212.8.253.112/logo/ARABE/BAHRAINTVHD.png" group-title="AR | BAHRAIN",AR - BAHRAIN TV  HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/733.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - AL MAAREF" tvg-logo="http://212.8.253.112/logo/BAHRAIN/ALMAAREF.png" group-title="AR | BAHRAIN",AR - AL MAAREF
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/731.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - DUBAI ONE" tvg-logo="http://212.8.253.112/logo/UAE/dubaitv.png" group-title="AR | UAE",AR - DUBAI ONE
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/749.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - DUBAI RACING 1 HD" tvg-logo="http://212.8.253.112/logo/UAE/DUBAIRACING%201HD.png" group-title="AR | UAE",AR - DUBAI RACING 1 HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/757.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - DUBAI RACING 2" tvg-logo="http://212.8.253.112/logo/UAE/DUBAI%20RACING2.png" group-title="AR | UAE",AR - DUBAI RACING 2
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/744.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - DUBAI RACING 3" tvg-logo="http://212.8.253.112/logo/UAE/DUBAIRACING3.png" group-title="AR | UAE",AR - DUBAI RACING 3
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/743.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - DUBAI SPORT 1 HD" tvg-logo="http://212.8.253.112/logo/UAE/DUBAISPORT1HD.png" group-title="AR | UAE",AR - DUBAI SPORT 1 HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/758.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - DUBAI SPORT 4" tvg-logo="http://212.8.253.112/logo/UAE/DUBAISPORT4.png" group-title="AR | UAE",AR - DUBAI SPORT 4
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/745.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - DUBAI TV" tvg-logo="http://212.8.253.112/logo/UAE/dubaitv.png" group-title="AR | UAE",AR - DUBAI TV
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/747.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - DUBAI TV HD" tvg-logo="http://212.8.253.112/logo/UAE/dubaitv.png" group-title="AR | UAE",AR - DUBAI TV HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/760.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - DUBAI ZAMAN" tvg-logo="http://212.8.253.112/logo/UAE/dubaizaman.png" group-title="AR | UAE",AR - DUBAI ZAMAN
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/748.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - AD SPORT 1 HD" tvg-logo="http://212.8.253.112/logo/ABUDABISPORT/ABUDHABISPORTS1.png" group-title="AR | ABU DHABI SPORTS",AR - AD SPORT 1 HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/756.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - ABU DHABI AL EMARAT HD" tvg-logo="http://212.8.253.112/logo/UAE/ABUDHABIALEMARATHD.png" group-title="AR | UAE",AR - ABU DHABI AL EMARAT HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/751.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - ABU DHABI DRAMA HD" tvg-logo="http://212.8.253.112/logo/UAE/ABUDHABIDRAMAHD.png" group-title="AR | UAE",AR - ABU DHABI DRAMA HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/752.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - ABU DHABI SPORT 2 HD" tvg-logo="http://212.8.253.112/logo/ABUDABISPORT/ABUDHABISPORTS2.png" group-title="AR | ABU DHABI SPORTS",AR - ABU DHABI SPORT 2 HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/755.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - ABU DHABI TV HD" tvg-logo="http://212.8.253.112/logo/UAE/ABUDHABITVHD.png" group-title="AR | UAE",AR - ABU DHABI TV HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/753.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - YAS SPORT HD" tvg-logo="http://212.8.253.112/logo/UAE/YASSPORT.png" group-title="AR | UAE",AR - YAS SPORT HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/754.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - SAMA DUBAI HD" tvg-logo="http://212.8.253.112/logo/UAE/SAMADUBAIHD.png" group-title="AR | UAE",AR - SAMA DUBAI HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/759.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - NOOR DUBAI" tvg-logo="http://212.8.253.112/logo/UAE/noordubai.png" group-title="AR | UAE",AR - NOOR DUBAI
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/750.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - HOD HOD TV" tvg-logo="http://212.8.253.112/logo/UAE/HODHODTV.png" group-title="AR | UAE",AR - HOD HOD TV
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/740.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - AL WAHA TV" tvg-logo="http://212.8.253.112/logo/UAE/ALWAHATV.png" group-title="AR | UAE",AR - AL WAHA TV
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/738.ts
+#EXTINF:-1 tvg-id="NileCinema.eg" tvg-name="AR - NILE CINEMA" tvg-logo="http://212.8.253.112/logo/EGYPT/NILECINEMA.png" group-title="AR | EGYPT",AR - NILE CINEMA
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/855.ts
+#EXTINF:-1 tvg-id="NileComedy.eg" tvg-name="AR - NILE COMEDY" tvg-logo="http://185.79.114.21:88/logos/NILE%20TV.png" group-title="AR | EGYPT",AR - NILE COMEDY
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/852.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - NILE CULTURE" tvg-logo="http://212.8.253.112/logo/EGYPT/NILECULTURE.png" group-title="AR | EGYPT",AR - NILE CULTURE
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/849.ts
+#EXTINF:-1 tvg-id="NileDrama.eg" tvg-name="AR - NILE DRAMA" tvg-logo="http://212.8.253.112/logo/EGYPT/NILEDRAMA.png" group-title="AR | EGYPT",AR - NILE DRAMA
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/854.ts
+#EXTINF:-1 tvg-id="NileFamily.eg" tvg-name="AR - NILE FAMILY" tvg-logo="http://212.8.253.112/logo/EGYPT/NILEFAMILY.png" group-title="AR | EGYPT",AR - NILE FAMILY
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/853.ts
+#EXTINF:-1 tvg-id="NileLife.eg" tvg-name="AR - NILE LIFE" tvg-logo="http://212.8.253.112/logo/EGYPT/NILELIFE.png" group-title="AR | EGYPT",AR - NILE LIFE
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/850.ts
+#EXTINF:-1 tvg-id="NileNews.eg" tvg-name="AR - NILE NEWS" tvg-logo="http://212.8.253.112/logo/EGYPT/NILENEWS.png" group-title="AR | EGYPT",AR - NILE NEWS
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/851.ts
+#EXTINF:-1 tvg-id="NileSport.eg" tvg-name="AR - NILE SPORT" tvg-logo="http://212.8.253.112/logo/EGYPT/NILESPORT.png" group-title="AR | EGYPT",AR - NILE SPORT
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/848.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - ON TV" tvg-logo="http://212.8.253.112/logo/EGYPT/ONTVE.png" group-title="AR | EGYPT",AR - ON TV
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/794.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - ON TV DRAMA" tvg-logo="http://212.8.253.112/logo/EGYPT/ONTVDRAMA.png" group-title="AR | EGYPT",AR - ON TV DRAMA
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/807.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - ON TV E" tvg-logo="http://212.8.253.112/logo/EGYPT/ONTVE.png" group-title="AR | EGYPT",AR - ON TV E
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/806.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - ON TV E HD" tvg-logo="http://212.8.253.112/logo/EGYPT/ONTVE.png" group-title="AR | EGYPT",AR - ON TV E HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/805.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - ON TV HD" tvg-logo="http://212.8.253.112/logo/EGYPT/ONTV.png" group-title="AR | EGYPT",AR - ON TV HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/804.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - ON TV LIVE" tvg-logo="http://212.8.253.112/logo/EGYPT/ONTVLIVE.png" group-title="AR | EGYPT",AR - ON TV LIVE
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/811.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - ON TV LIVE HD" tvg-logo="http://212.8.253.112/logo/EGYPT/ONTVLIVE.png" group-title="AR | EGYPT",AR - ON TV LIVE HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/810.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - ON TV SPORT" tvg-logo="http://212.8.253.112/logo/EGYPT/ONTVSPORTHD.png" group-title="AR | EGYPT",AR - ON TV SPORT
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/809.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - ON TV SPORT HD" tvg-logo="http://212.8.253.112/logo/EGYPT/ONTVSPORTHD.png" group-title="AR | EGYPT",AR - ON TV SPORT HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/808.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - DMC" tvg-logo="http://212.8.253.112/logo/EGYPT/DMC.png" group-title="AR | EGYPT",AR - DMC
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/793.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - DMC DRAMA" tvg-logo="http://212.8.253.112/logo/EGYPT/DMC.png" group-title="AR | EGYPT",AR - DMC DRAMA
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/792.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - DMC HD" tvg-logo="http://212.8.253.112/logo/EGYPT/DMC.png" group-title="AR | EGYPT",AR - DMC HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/812.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - DMC KIDS" tvg-logo="http://212.8.253.112/logo/ARABE/DMC.png" group-title="AR | ARABIC KIDS",AR - DMC KIDS
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/950.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - DMC MASRAHEYAT" tvg-logo="http://212.8.253.112/logo/EGYPT/DMC.png" group-title="AR | EGYPT",AR - DMC MASRAHEYAT
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/791.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - DMC NEWS" tvg-logo="http://212.8.253.112/logo/EGYPT/DMC.png" group-title="AR | EGYPT",AR - DMC NEWS
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/790.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - DMC SPORTS" tvg-logo="http://212.8.253.112/logo/EGYPT/DMC.png" group-title="AR | EGYPT",AR - DMC SPORTS
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/789.ts
+#EXTINF:-1 tvg-id="CBC.eg" tvg-name="AR - CBC" tvg-logo="http://212.8.253.112/logo/EGYPT/CBC.png" group-title="AR | EGYPT",AR - CBC
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/860.ts
+#EXTINF:-1 tvg-id="CBCDrama.eg" tvg-name="AR - CBC DRAMA" tvg-logo="http://212.8.253.112/logo/EGYPT/CBCDRAMA.png" group-title="AR | EGYPT",AR - CBC DRAMA
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/798.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - CBC EXTRA NEWS" tvg-logo="http://212.8.253.112/logo/EGYPT/CBCEXTRANEWS.png" group-title="AR | EGYPT",AR - CBC EXTRA NEWS
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/858.ts
+#EXTINF:-1 tvg-id="CBCSofra.eg" tvg-name="AR - CBC SOFRA" tvg-logo="http://212.8.253.112/logo/EGYPT/CBCSOFRA.png" group-title="AR | EGYPT",AR - CBC SOFRA
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/859.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - CHADA FM HD" tvg-logo="http://212.8.253.112/logo/ARABE/CHADAFMHD.png" group-title="AR | MAROC",AR - CHADA FM HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/7174.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - CIMA TV" tvg-logo="http://212.8.253.112/logo/EGYPT/CIMATV.png" group-title="AR | EGYPT",AR - CIMA TV
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/828.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - CINEMA PRO" tvg-logo="http://212.8.253.112/logo/EGYPT/CINEMAPRO.png" group-title="AR | EGYPT",AR - CINEMA PRO
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/829.ts
+#EXTINF:-1 tvg-id="Dream2.sa" tvg-name="AR - DREAM" tvg-logo="http://212.8.253.112/logo/EGYPT/DREAMTV.png" group-title="AR | EGYPT",AR - DREAM
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/843.ts
+#EXTINF:-1 tvg-id="PanoramaDrama.eg" tvg-name="AR - PANORAMA DRAMA 1" tvg-logo="http://212.8.253.112/logo/EGYPT/PANORAMADRAMA.png" group-title="AR | EGYPT",AR - PANORAMA DRAMA 1
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/801.ts
+#EXTINF:-1 tvg-id="PanoramaDrama.eg" tvg-name="AR - PANORAMA DRAMA 2" tvg-logo="http://212.8.253.112/logo/EGYPT/PANORAMADRAMA2.png" group-title="AR | EGYPT",AR - PANORAMA DRAMA 2
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/800.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - PANORAMA FILM" tvg-logo="http://212.8.253.112/logo/EGYPT/PANORAMAFILM.png" group-title="AR | EGYPT",AR - PANORAMA FILM
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/830.ts
+#EXTINF:-1 tvg-id="PanoramaFood.eg" tvg-name="AR - PANORAMA FOOD" tvg-logo="http://212.8.253.112/logo/EGYPT/PANORAMAFOOD.png" group-title="AR | EGYPT",AR - PANORAMA FOOD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/799.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - AL KAHERA WAL NAS  2" tvg-logo="http://212.8.253.112/logo/EGYPT/ALKAHERAWALNAS+2.png" group-title="AR | EGYPT",AR - AL KAHERA WAL NAS  2
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/819.ts
+#EXTINF:-1 tvg-id="AlKaheraWalNas.eg" tvg-name="AR - AL KAHERA WE ALNASS" tvg-logo="http://212.8.253.112/logo/EGYPT/ALKAHERAWEALNASS.png" group-title="AR | EGYPT",AR - AL KAHERA WE ALNASS
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/847.ts
+#EXTINF:-1 tvg-id="AlKaheraWalNas.eg" tvg-name="AR - AL KAHERA WEL NES" tvg-logo="http://212.8.253.112/logo/EGYPT/ALKAHERAWELNES.png" group-title="AR | EGYPT",AR - AL KAHERA WEL NES
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/846.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - PYRAMIDS F.C TV HD" tvg-logo="http://212.8.253.112/logo/ARABE/PYRAMIDSF.CTV.png" group-title="AR | EGYPT",AR - PYRAMIDS F.C TV HD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/26604.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - MODY KIDS" tvg-logo="http://212.8.253.112/logo/ARABE/SAT7KIDS.png" group-title="AR | ARABIC KIDS",AR - MODY KIDS
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/953.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - MTA INTERNATIONAL" tvg-logo="http://212.8.253.112/logo/ISLAMIC/MTAINTERNATIONAL.png" group-title="AR | ISLAMIC",AR - MTA INTERNATIONAL
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/876.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - MTA MUSLIM TV" tvg-logo="http://212.8.253.112/logo/ISLAMIC/MTAMUSLIM%20TV.png" group-title="AR | ISLAMIC",AR - MTA MUSLIM TV
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/877.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - MUSAWA TV" tvg-logo="http://212.8.253.112/logo/JORDAN/MUSAWATV.png" group-title="AR | JORDAN",AR - MUSAWA TV
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/710.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - ALHAYAT RED" tvg-logo="http://212.8.253.112/logo/EGYPT/ALHAYATRED.png" group-title="AR | EGYPT",AR - ALHAYAT RED
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/17129.ts
+#EXTINF:-1 tvg-id="AlHayat.eg" tvg-name="AR - ALHAYAT 2" tvg-logo="http://212.8.253.112/logo/EGYPT/ALHAYAT2.png" group-title="AR | EGYPT",AR - ALHAYAT 2
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/787.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - ALHAYAT WE ALNAS" tvg-logo="http://212.8.253.112/logo/EGYPT/ALHAYATWEALNAS.png" group-title="AR | EGYPT",AR - ALHAYAT WE ALNAS
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/786.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - NABA TV" tvg-logo="http://212.8.253.112/logo/LIBYA/NABATV.png" group-title="AR | LIBYA",AR - NABA TV
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/705.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - MELODY CLASSIC" tvg-logo="http://212.8.253.112/logo/EGYPT/MELODYCLASSIC.png" group-title="AR | EGYPT",AR - MELODY CLASSIC
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/822.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - AL BAIT BAITAK CINEMA" tvg-logo="http://212.8.253.112/logo/EGYPT/ALBAITBAITAKCINEMA.png" group-title="AR | EGYPT",AR - AL BAIT BAITAK CINEMA
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/821.ts
+#EXTINF:-1 tvg-id="AlHayatMusalsalat.eg" tvg-name="AR - AL HAYAT MUSLSALAT" tvg-logo="http://212.8.253.112/logo/EGYPT/ALHAYATMUSLSALAT.png" group-title="AR | EGYPT",AR - AL HAYAT MUSLSALAT
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/856.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - AL MASRAWIA AFLAM" tvg-logo="http://212.8.253.112/logo/EGYPT/ALMASRIYA.png" group-title="AR | EGYPT",AR - AL MASRAWIA AFLAM
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/813.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - SADA EL BALAD" tvg-logo="http://212.8.253.112/logo/EGYPT/SADAELBALAD.png" group-title="AR | EGYPT",AR - SADA EL BALAD
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/845.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - SADA EL BALAD DRAMA" tvg-logo="http://212.8.253.112/logo/EGYPT/SADAELBALAD+.png" group-title="AR | EGYPT",AR - SADA EL BALAD DRAMA
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/844.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - STAR CINEMA 1" tvg-logo="http://212.8.253.112/logo/EGYPT/STARCINEMA1.png" group-title="AR | EGYPT",AR - STAR CINEMA 1
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/833.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - STAR CINEMA 2" tvg-logo="http://212.8.253.112/logo/EGYPT/STARCINEMA2.png" group-title="AR | EGYPT",AR - STAR CINEMA 2
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/832.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - TOK TOK AFLAM" tvg-logo="http://212.8.253.112/logo/EGYPT/TOKTOKAFLAM.png" group-title="AR | EGYPT",AR - TOK TOK AFLAM
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/782.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - TOK TOK CINEMA" tvg-logo="http://212.8.253.112/logo/ARABE/TOKTOKCINEMA.png" group-title="AR | EGYPT",AR - TOK TOK CINEMA
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/831.ts
+#EXTINF:-1 tvg-id="AlNaharDrama.eg" tvg-name="AR - AL NAHAR DRAMA" tvg-logo="http://212.8.253.112/logo/EGYPT/ALNAHARDRAMA.png" group-title="AR | EGYPT",AR - AL NAHAR DRAMA
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/839.ts
+#EXTINF:-1 tvg-id="AlNaharOne.eg" tvg-name="AR - AL NAHAR ONE" tvg-logo="http://212.8.253.112/logo/EGYPT/ALNAHARONE.png" group-title="AR | EGYPT",AR - AL NAHAR ONE
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/840.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - AL MASRIYA" tvg-logo="http://212.8.253.112/logo/EGYPT/ALMASRIYA.png" group-title="AR | EGYPT",AR - AL MASRIYA
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/788.ts
+#EXTINF:-1 tvg-id="NileTV.eg" tvg-name="AR - NILE TV" tvg-logo="http://212.8.253.112/logo/EGYPT/NILETV.png" group-title="AR | EGYPT",AR - NILE TV
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/19163.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR -  AL ASSEMA 1" tvg-logo="http://212.8.253.112/logo/EGYPT/ALASSEMA1.png" group-title="AR | EGYPT",AR -  AL ASSEMA 1
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/19162.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - MASPERO ZAMAN" tvg-logo="http://212.8.253.112/logo/EGYPT/MASPEROZAMAN.png" group-title="AR | EGYPT",AR - MASPERO ZAMAN
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/797.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - MEHWAR" tvg-logo="http://212.8.253.112/logo/EGYPT/MEHWAR.png" group-title="AR | EGYPT",AR - MEHWAR
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/835.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - MEKAMELEEN" tvg-logo="http://212.8.253.112/logo/EGYPT/MEKAMELEEN.png" group-title="AR | EGYPT",AR - MEKAMELEEN
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/857.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - EL SHARQ" tvg-logo="http://212.8.253.112/logo/ARABE/ELSHARQ.png" group-title="AR | EGYPT",AR - EL SHARQ
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/834.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - AL AHLY" tvg-logo="http://212.8.253.112/logo/EGYPT/ALAHLY.png" group-title="AR | EGYPT",AR - AL AHLY
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/866.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - ESC" tvg-logo="http://212.8.253.112/logo/EGYPT/ESC.png" group-title="AR | EGYPT",AR - ESC
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/861.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - AL GHAD TV" tvg-logo="http://212.8.253.112/logo/EGYPT/ALGHADHD.png" group-title="AR | EGYPT",AR - AL GHAD TV
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/842.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - MAZAZIKH TV" tvg-logo="http://212.8.253.112/logo/EGYPT/MAZAZIKHTV.png" group-title="AR | EGYPT",AR - MAZAZIKH TV
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/827.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - ARABICA TV" tvg-logo="http://212.8.253.112/logo/EGYPT/ARABICATV.png" group-title="AR | EGYPT",AR - ARABICA TV
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/826.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - AL GHAD MUSHREQ TV" tvg-logo="http://212.8.253.112/logo/EGYPT/ALGHADMUSHREQ.png" group-title="AR | EGYPT",AR - AL GHAD MUSHREQ TV
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/825.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - AFRAH TV" tvg-logo="http://212.8.253.112/logo/EGYPT/AFRAHTV.png" group-title="AR | EGYPT",AR - AFRAH TV
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/824.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - LTC" tvg-logo="http://212.8.253.112/logo/EGYPT/LTC.png" group-title="AR | EGYPT",AR - LTC
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/818.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - EL MOLED TV" tvg-logo="http://212.8.253.112/logo/EGYPT/ELMOLEDTV.png" group-title="AR | EGYPT",AR - EL MOLED TV
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/817.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - AL DAWAEIA" tvg-logo="http://185.79.114.21:88/logos/AlDawaeia.jpg" group-title="AR | EGYPT",AR - AL DAWAEIA
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/815.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - AL SHAREYYAH" tvg-logo="http://212.8.253.112/logo/ARABE/ALSHAREYYAH.png" group-title="AR | EGYPT",AR - AL SHAREYYAH
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/814.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - WATAN TV" tvg-logo="http://185.79.114.21:88/logos/WATAN%20TV.png" group-title="AR | EGYPT",AR - WATAN TV
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/796.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - AZHARI TV" tvg-logo="http://212.8.253.112/logo/EGYPT/AZHARITV.png" group-title="AR | EGYPT",AR - AZHARI TV
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/795.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - ALTHANYA" tvg-logo="http://212.8.253.112/logo/EGYPT/ALTHANYA.png" group-title="AR | EGYPT",AR - ALTHANYA
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/785.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - DIRECT" tvg-logo="http://212.8.253.112/logo/EGYPT/DIRECT.png" group-title="AR | EGYPT",AR - DIRECT
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/784.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - SEHATY" tvg-logo="http://212.8.253.112/logo/EGYPT/SEHATY.png" group-title="AR | EGYPT",AR - SEHATY
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/783.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR - AL HADATH AL YOUM" tvg-logo="http://212.8.253.112/logo/EGYPT/ALHADATHALYOUM.png" group-title="AR | EGYPT",AR - AL HADATH AL YOUM
+http://tptv.cz:80/live/Soner1/fkbXXwEw0b/836.ts
