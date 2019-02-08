@@ -1,5 +1,33 @@
 #EXTM3U
 
+#EXTINF:-1,Atv Hd
+http://formen1.com:8080/kenann/5GzkEpa734/66
+#EXTINF:-1,Atv SD Yedek
+http://formen1.com:8080/kenann/5GzkEpa734/15915
+#EXTINF:-1,Star Tv
+http://formen1.com:8080/kenann/5GzkEpa734/91
+#EXTINF:-1,Star TV HD
+http://formen1.com:8080/kenann/5GzkEpa734/62
+#EXTINF:-1,Star Tv SD Yedek
+http://formen1.com:8080/kenann/5GzkEpa734/15914
+#EXTINF:-1,Star Tv Euro
+http://formen1.com:8080/kenann/5GzkEpa734/8743
+#EXTINF:-1,Kanal D
+http://formen1.com:8080/kenann/5GzkEpa734/79
+#EXTINF:-1,Kanal D HD
+http://formen1.com:8080/kenann/5GzkEpa734/68
+#EXTINF:-1,Kanal D SD Yedek
+http://formen1.com:8080/kenann/5GzkEpa734/15917
+#EXTINF:-1,Kanal D Euro
+http://formen1.com:8080/kenann/5GzkEpa734/8745
+#EXTINF:-1,Show TV
+http://formen1.com:8080/kenann/5GzkEpa734/90
+#EXTINF:-1,Show TV HD
+http://formen1.com:8080/kenann/5GzkEpa734/63
+#EXTINF:-1,Show Tv SD Yedek
+http://formen1.com:8080/kenann/5GzkEpa734/15916
+#EXTINF:-1,Show Tv Euro
+http://formen1.com:8080/kenann/5GzkEpa734/8744
 #EXTINF:-1 tvg-id="" tvg-name="##### TR - TURKIYE #####" tvg-logo="" group-title="AS | TURKISH",##### TR - TURKIYE #####
 http://borg.hopto.org:8090/html/greetings.mp4
 #EXTINF:-1 tvg-id="atv.tr" tvg-name="TR - ATV HD" tvg-logo="http://212.8.253.112/logo/TURKIYE/ATVHD.png" group-title="AS | TURKISH",TR - ATV HD
@@ -50,13 +78,13 @@ http://tptv.cz:80/live/Soner1/fkbXXwEw0b/39773.ts
 http://borg.hopto.org:8090/html/greetings.mp4
 #EXTINF:-1 tvg-id="kidzanimez.tr" tvg-name="TR - KIDZ TV (KIDS)" tvg-logo="http://212.8.253.112/logo/TURKIYE/KIDZTV.png" group-title="AS | TURKISH",TR - KIDZ TV (KIDS)
 http://tptv.cz:80/live/Soner1/fkbXXwEw0b/39704.ts
-#EXTINF:-1 tvg-id="trtcocuk.tr" tvg-name="TR - TRT ÇOCUK HD PLUS" tvg-logo="http://212.8.253.112/logo/TURKIYE/TRT1HD.png" group-title="AS | TURKISH",TR - TRT ÇOCUK HD PLUS
+#EXTINF:-1 tvg-id="trtcocuk.tr" tvg-name="TR - TRT Ã‡OCUK HD PLUS" tvg-logo="http://212.8.253.112/logo/TURKIYE/TRT1HD.png" group-title="AS | TURKISH",TR - TRT Ã‡OCUK HD PLUS
 http://tptv.cz:80/live/Soner1/fkbXXwEw0b/39703.ts
-#EXTINF:-1 tvg-id="planetcocuk.tr" tvg-name="TR - PLANET ÇOCUK" tvg-logo="http://212.8.253.112/logo/TURKIYE/PLANET%C3%87OCUK.png" group-title="AS | TURKISH",TR - PLANET ÇOCUK
+#EXTINF:-1 tvg-id="planetcocuk.tr" tvg-name="TR - PLANET Ã‡OCUK" tvg-logo="http://212.8.253.112/logo/TURKIYE/PLANET%C3%87OCUK.png" group-title="AS | TURKISH",TR - PLANET Ã‡OCUK
 http://tptv.cz:80/live/Soner1/fkbXXwEw0b/39702.ts
 #EXTINF:-1 tvg-id="minikago.tr" tvg-name="TR - MINIKA GO" tvg-logo="http://212.8.253.112/logo/TURKIYE/MINIKAGO.png" group-title="AS | TURKISH",TR - MINIKA GO
 http://tptv.cz:80/live/Soner1/fkbXXwEw0b/39701.ts
-#EXTINF:-1 tvg-id="minikacocuk.tr" tvg-name="TR - MINIKA ÇOCUK" tvg-logo="http://212.8.253.112/logo/TURKIYE/MINIKA%C3%87OCUK.png" group-title="AS | TURKISH",TR - MINIKA ÇOCUK
+#EXTINF:-1 tvg-id="minikacocuk.tr" tvg-name="TR - MINIKA Ã‡OCUK" tvg-logo="http://212.8.253.112/logo/TURKIYE/MINIKA%C3%87OCUK.png" group-title="AS | TURKISH",TR - MINIKA Ã‡OCUK
 http://tptv.cz:80/live/Soner1/fkbXXwEw0b/39700.ts
 #EXTINF:-1 tvg-id="" tvg-name="TR - NICK JR" tvg-logo="http://212.8.253.112/logo/TURKIYE/NICKJR.png" group-title="AS | TURKISH",TR - NICK JR
 http://tptv.cz:80/live/Soner1/fkbXXwEw0b/39699.ts
