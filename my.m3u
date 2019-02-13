@@ -1,32 +1,164 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="ATV.tr" tvg-name="TR - ATV HD" tvg-logo="http://212.8.253.112/logo/TURKIYE/ATVHD.png" group-title="AS | TURKISH",TR - ATV HD
-http://tvservice.pro:80/912739189039/fbZqaYJug0hMBcy/39768
+http://tvservice.pro:80/911617365019/npCylKOVBLNHJKp/39768
 #EXTINF:-1 tvg-id="ATV.tr" tvg-name="TR - ATV HD PLUS" tvg-logo="http://212.8.253.112/logo/TURKIYE/ATVHDPLUS.png" group-title="AS | TURKISH",TR - ATV HD PLUS
-http://tvservice.pro:80/912739189039/fbZqaYJug0hMBcy/39767
+http://tvservice.pro:80/911617365019/npCylKOVBLNHJKp/39767
 #EXTINF:-1 tvg-id="StarTV.tr" tvg-name="TR - STAR HD" tvg-logo="http://212.8.253.112/logo/TURKIYE/STAR.png" group-title="AS | TURKISH",TR - STAR HD
-http://tvservice.pro:80/912739189039/fbZqaYJug0hMBcy/39766
+http://tvservice.pro:80/911617365019/npCylKOVBLNHJKp/39766
 #EXTINF:-1 tvg-id="StarTV.tr" tvg-name="TR - STAR HD PLUS" tvg-logo="http://212.8.253.112/logo/TURKIYE/STARHDPLUS.png" group-title="AS | TURKISH",TR - STAR HD PLUS
-http://tvservice.pro:80/912739189039/fbZqaYJug0hMBcy/39765
+http://tvservice.pro:80/911617365019/npCylKOVBLNHJKp/39765
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-name="TR - KANAL D HD" tvg-logo="http://212.8.253.112/logo/TURKIYE/KANALD.png" group-title="AS | TURKISH",TR - KANAL D HD
-http://tvservice.pro:80/912739189039/fbZqaYJug0hMBcy/39770
+http://tvservice.pro:80/911617365019/npCylKOVBLNHJKp/39770
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-name="TR - KANAL D HD PLUS" tvg-logo="http://212.8.253.112/logo/TURKIYE/KANALDHDPLUS.png" group-title="AS | TURKISH",TR - KANAL D HD PLUS
-http://tvservice.pro:80/912739189039/fbZqaYJug0hMBcy/39769
+http://tvservice.pro:80/911617365019/npCylKOVBLNHJKp/39769
 #EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="TR - SHOW HD" tvg-logo="http://212.8.253.112/logo/TURKIYE/SHOWHD.png" group-title="AS | TURKISH",TR - SHOW HD
-http://tvservice.pro:80/912739189039/fbZqaYJug0hMBcy/39772
+http://tvservice.pro:80/911617365019/npCylKOVBLNHJKp/39772
 #EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="TR - SHOW HD PLUS" tvg-logo="http://212.8.253.112/logo/TURKIYE/SHOWHDPLUS.png" group-title="AS | TURKISH",TR - SHOW HD PLUS
-http://tvservice.pro:80/912739189039/fbZqaYJug0hMBcy/39771
+http://tvservice.pro:80/911617365019/npCylKOVBLNHJKp/39771
 #EXTINF:-1 tvg-id="Fox.tr" tvg-name="TR - FOX HD" tvg-logo="http://212.8.253.112/logo/TURKIYE/FOX.png" group-title="AS | TURKISH",TR - FOX HD
-http://tvservice.pro:80/912739189039/fbZqaYJug0hMBcy/39764
+http://tvservice.pro:80/911617365019/npCylKOVBLNHJKp/39764
 #EXTINF:-1 tvg-id="Fox.tr" tvg-name="TR - FOX HD PLUS" tvg-logo="http://212.8.253.112/logo/TURKIYE/FOXHDPLUS.png" group-title="AS | TURKISH",TR - FOX HD PLUS
-http://tvservice.pro:80/912739189039/fbZqaYJug0hMBcy/39763
+http://tvservice.pro:80/911617365019/npCylKOVBLNHJKp/39763
 #EXTINF:-1 tvg-id="TV85.tr" tvg-name="TR - TV 8 HD" tvg-logo="http://212.8.253.112/logo/TURKIYE/TV8HD.png" group-title="AS | TURKISH",TR - TV 8 HD
-http://tvservice.pro:80/912739189039/fbZqaYJug0hMBcy/39762
+http://tvservice.pro:80/911617365019/npCylKOVBLNHJKp/39762
 #EXTINF:-1 tvg-id="TV85.tr" tvg-name="TR - TV 8 HD PLUS" tvg-logo="http://212.8.253.112/logo/TURKIYE/TV8HDPLUS.png" group-title="AS | TURKISH",TR - TV 8 HD PLUS
-http://tvservice.pro:80/912739189039/fbZqaYJug0hMBcy/39761
+http://tvservice.pro:80/911617365019/npCylKOVBLNHJKp/39761
 #EXTINF:-1 tvg-id="BeyazTV.tr" tvg-name="TR - BEYAZ HD PLUS" tvg-logo="http://212.8.253.112/logo/TURKIYE/BEYAZHDPLUS.png" group-title="AS | TURKISH",TR - BEYAZ HD PLUS
-http://tvservice.pro:80/912739189039/fbZqaYJug0hMBcy/39760
+http://tvservice.pro:80/911617365019/npCylKOVBLNHJKp/39760
 #EXTINF:-1 tvg-id="TV85.tr" tvg-name="TR - TV 8.5 HD PLUS" tvg-logo="http://212.8.253.112/logo/TURKIYE/TV8.5HDPLUS.png" group-title="AS | TURKISH",TR - TV 8.5 HD PLUS
-http://tvservice.pro:80/912739189039/fbZqaYJug0hMBcy/39759
+http://tvservice.pro:80/911617365019/npCylKOVBLNHJKp/39759
 #EXTINF:-1 tvg-id="TV85.tr" tvg-name="TR - TV 8.5 HD" tvg-logo="http://212.8.253.112/logo/TURKIYE/TV8.5HD.png" group-title="AS | TURKISH",TR - TV 8.5 HD
-http://tvservice.pro:80/912739189039/fbZqaYJug0hMBcy/39758
+http://tvservice.pro:80/911617365019/npCylKOVBLNHJKp/39758
+#EXTINF:-1 tvg-id="Kanal7.tr" tvg-name="TR - KANAL 7 HD" tvg-logo="http://212.8.253.112/logo/TURKIYE/KANAL7EUROPA.png" group-title="AS | TURKISH",TR - KANAL 7 HD
+http://tvservice.pro:80/911617365019/npCylKOVBLNHJKp/39754
+#EXTINF:-1 tvg-id="Kanal7.tr" tvg-name="TR - KANAL 7 HD PLUS" tvg-logo="http://212.8.253.112/logo/TURKIYE/KANAL7.png" group-title="AS | TURKISH",TR - KANAL 7 HD PLUS
+http://tvservice.pro:80/911617365019/npCylKOVBLNHJKp/39753
+#EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-name="TR - TRT BELGESEL HD PLUS" tvg-logo="http://212.8.253.112/logo/TURKIYE/TRTBELGESELHDPLUS.png" group-title="AS | TURKISH",TR - TRT BELGESEL HD PLUS
+http://tvservice.pro:80/911617365019/npCylKOVBLNHJKp/39720
+#EXTINF:-1 tvg-id="" tvg-name="TR - TGRT BELGESEL" tvg-logo="http://212.8.253.112/logo/TURKIYE/TRTBELGESELHDPLUS.png" group-title="AS | TURKISH",TR - TGRT BELGESEL
+http://tvservice.pro:80/911617365019/npCylKOVBLNHJKp/39719
+#EXTINF:-1 tvg-id="YabanTV.tr" tvg-name="TR - YABAN TV" tvg-logo="http://212.8.253.112/logo/TURKIYE/TR/yabantv.png" group-title="AS | TURKISH",TR - YABAN TV
+http://tvservice.pro:80/911617365019/npCylKOVBLNHJKp/39718
+#EXTINF:-1 tvg-id="animalplanet.tr" tvg-name="TR - ANIMAL PLANET HD" tvg-logo="http://212.8.253.112/logo/TURKIYE/ANIMALPLANETHD.png" group-title="AS | TURKISH",TR - ANIMAL PLANET HD
+http://tvservice.pro:80/911617365019/npCylKOVBLNHJKp/39717
+#EXTINF:-1 tvg-id="discoverychannel.tr" tvg-name="TR - DISCOVERY CHANNEL HD PLUS" tvg-logo="http://212.8.253.112/logo/TURKIYE/DISCOVERYCHANNELHDPLUS.png" group-title="AS | TURKISH",TR - DISCOVERY CHANNEL HD PLUS
+http://tvservice.pro:80/911617365019/npCylKOVBLNHJKp/39716
+#EXTINF:-1 tvg-id="discoveryscience.tr" tvg-name="TR - DISCOVERY SCIENCE HD" tvg-logo="http://212.8.253.112/logo/TURKIYE/DISCOVERYSCIENCEHD.png" group-title="AS | TURKISH",TR - DISCOVERY SCIENCE HD
+http://tvservice.pro:80/911617365019/npCylKOVBLNHJKp/39715
+#EXTINF:-1 tvg-id="NatGeo.tr" tvg-name="TR - NGC HD" tvg-logo="http://212.8.253.112/logo/TURKIYE/NGCHD.png" group-title="AS | TURKISH",TR - NGC HD
+http://tvservice.pro:80/911617365019/npCylKOVBLNHJKp/39714
+#EXTINF:-1 tvg-id="NatGeoWild.tr" tvg-name="TR - NGC WILD HD PLUS" tvg-logo="http://212.8.253.112/logo/TURKIYE/NGCWILDHDPLUS.png" group-title="AS | TURKISH",TR - NGC WILD HD PLUS
+http://tvservice.pro:80/911617365019/npCylKOVBLNHJKp/39713
+#EXTINF:-1 tvg-id="natgeopeople.tr" tvg-name="TR - NGC PEOPLE HD" tvg-logo="http://212.8.253.112/logo/TURKIYE/NGCPEOPLEHD.png" group-title="AS | TURKISH",TR - NGC PEOPLE HD
+http://tvservice.pro:80/911617365019/npCylKOVBLNHJKp/39712
+#EXTINF:-1 tvg-id="beiniz.tr" tvg-name="TR - BEIN IZ HD" tvg-logo="http://212.8.253.112/logo/TURKIYE/BEINIZHD.png" group-title="AS | TURKISH",TR - BEIN IZ HD
+http://tvservice.pro:80/911617365019/npCylKOVBLNHJKp/39711
+#EXTINF:-1 tvg-id="historychannel.tr" tvg-name="TR - HISTORY CHANNEL HD" tvg-logo="http://212.8.253.112/logo/TURKIYE/HISTORYCHANNELHD.png" group-title="AS | TURKISH",TR - HISTORY CHANNEL HD
+http://tvservice.pro:80/911617365019/npCylKOVBLNHJKp/39710
+#EXTINF:-1 tvg-id="" tvg-name="TR - PLANET MUTFAK" tvg-logo="http://212.8.253.112/logo/TURKIYE/PLANETMUTFAK.png" group-title="AS | TURKISH",TR - PLANET MUTFAK
+http://tvservice.pro:80/911617365019/npCylKOVBLNHJKp/39709
+#EXTINF:-1 tvg-id="beingurme.tr" tvg-name="TR - BEIN GÜRME HD" tvg-logo="http://212.8.253.112/logo/TURKIYE/BEING%C3%9CRMEHD.png" group-title="AS | TURKISH",TR - BEIN GÜRME HD
+http://tvservice.pro:80/911617365019/npCylKOVBLNHJKp/39708
+#EXTINF:-1 tvg-id="tlc.tr" tvg-name="TR - TLC" tvg-logo="http://212.8.253.112/logo/TURKIYE/TLC.png" group-title="AS | TURKISH",TR - TLC
+http://tvservice.pro:80/911617365019/npCylKOVBLNHJKp/39707
+#EXTINF:-1 tvg-id="lifetime.tr" tvg-name="TR - LIFETIME CHANNEL (NATIONAL)" tvg-logo="http://212.8.253.112/logo/TURKIYE/LIFETIMECHANNEL.png" group-title="AS | TURKISH",TR - LIFETIME CHANNEL (NATIONAL)
+http://tvservice.pro:80/911617365019/npCylKOVBLNHJKp/39706
+#EXTINF:-1 tvg-id="KidzAnimez.tr" tvg-name="TR - KIDZ TV (KIDS)" tvg-logo="http://212.8.253.112/logo/TURKIYE/KIDZTV.png" group-title="AS | TURKISH",TR - KIDZ TV (KIDS)
+http://tvservice.pro:80/911617365019/npCylKOVBLNHJKp/39704
+#EXTINF:-1 tvg-id="TRTCocuk.tr" tvg-name="TR - TRT ÇOCUK HD PLUS" tvg-logo="http://212.8.253.112/logo/TURKIYE/TRT1HD.png" group-title="AS | TURKISH",TR - TRT ÇOCUK HD PLUS
+http://tvservice.pro:80/911617365019/npCylKOVBLNHJKp/39703
+#EXTINF:-1 tvg-id="planetcocuk.tr" tvg-name="TR - PLANET ÇOCUK" tvg-logo="http://212.8.253.112/logo/TURKIYE/PLANET%C3%87OCUK.png" group-title="AS | TURKISH",TR - PLANET ÇOCUK
+http://tvservice.pro:80/911617365019/npCylKOVBLNHJKp/39702
+#EXTINF:-1 tvg-id="minikaGO.tr" tvg-name="TR - MINIKA GO" tvg-logo="http://212.8.253.112/logo/TURKIYE/MINIKAGO.png" group-title="AS | TURKISH",TR - MINIKA GO
+http://tvservice.pro:80/911617365019/npCylKOVBLNHJKp/39701
+#EXTINF:-1 tvg-id="minikaCocuk.tr" tvg-name="TR - MINIKA ÇOCUK" tvg-logo="http://212.8.253.112/logo/TURKIYE/MINIKA%C3%87OCUK.png" group-title="AS | TURKISH",TR - MINIKA ÇOCUK
+http://tvservice.pro:80/911617365019/npCylKOVBLNHJKp/39700
+#EXTINF:-1 tvg-id="" tvg-name="TR - NICK JR" tvg-logo="http://212.8.253.112/logo/TURKIYE/NICKJR.png" group-title="AS | TURKISH",TR - NICK JR
+http://tvservice.pro:80/911617365019/npCylKOVBLNHJKp/39699
+#EXTINF:-1 tvg-id="" tvg-name="TR - NICKELODEON HD" tvg-logo="http://212.8.253.112/logo/TURKIYE/NICKELODEONHD.png" group-title="AS | TURKISH",TR - NICKELODEON HD
+http://tvservice.pro:80/911617365019/npCylKOVBLNHJKp/39698
+#EXTINF:-1 tvg-id="disneychannel.tr" tvg-name="TR - DISNEY CHANNEL" tvg-logo="http://212.8.253.112/logo/TURKIYE/DISNEYCHANNEL.png" group-title="AS | TURKISH",TR - DISNEY CHANNEL
+http://tvservice.pro:80/911617365019/npCylKOVBLNHJKp/39697
+#EXTINF:-1 tvg-id="cartoonnetwork.tr" tvg-name="TR - CARTOON NETWORK" tvg-logo="http://212.8.253.112/logo/TURKIYE/CARTOONNETWORK.png" group-title="AS | TURKISH",TR - CARTOON NETWORK
+http://tvservice.pro:80/911617365019/npCylKOVBLNHJKp/39696
+#EXTINF:-1 tvg-id="beinmoviesaction.tr" tvg-name="TR - BEIN MOVIES ACTION HD" tvg-logo="http://212.8.253.112/logo/TURKIYE/BEINMOVIEST%C3%9CRK.png" group-title="AS | TURKISH",TR - BEIN MOVIES ACTION HD
+http://tvservice.pro:80/911617365019/npCylKOVBLNHJKp/39604
+#EXTINF:-1 tvg-id="" tvg-name="TR - BEIN MOVIES ACTION 2 HD" tvg-logo="http://212.8.253.112/logo/TURKIYE/BEINMOVIEST%C3%9CRK.png" group-title="AS | TURKISH",TR - BEIN MOVIES ACTION 2 HD
+http://tvservice.pro:80/911617365019/npCylKOVBLNHJKp/39603
+#EXTINF:-1 tvg-id="beinmoviescomedy.tr" tvg-name="TR - BEIN MOVIES COMEDY HD" tvg-logo="http://212.8.253.112/logo/TURKIYE/BEINMOVIEST%C3%9CRK.png" group-title="AS | TURKISH",TR - BEIN MOVIES COMEDY HD
+http://tvservice.pro:80/911617365019/npCylKOVBLNHJKp/39602
+#EXTINF:-1 tvg-id="beinmoviesfamily.tr" tvg-name="TR - BEIN MOVIES FAMILY HD" tvg-logo="http://212.8.253.112/logo/TURKIYE/BEINMOVIEST%C3%9CRK.png" group-title="AS | TURKISH",TR - BEIN MOVIES FAMILY HD
+http://tvservice.pro:80/911617365019/npCylKOVBLNHJKp/39601
+#EXTINF:-1 tvg-id="beinmoviesfestival.tr" tvg-name="TR - BEIN MOVIES FESTIVAL HD" tvg-logo="http://212.8.253.112/logo/TURKIYE/BEINMOVIEST%C3%9CRK.png" group-title="AS | TURKISH",TR - BEIN MOVIES FESTIVAL HD
+http://tvservice.pro:80/911617365019/npCylKOVBLNHJKp/39600
+#EXTINF:-1 tvg-id="" tvg-name="TR - BEIN MOVIES PREMIER HD" tvg-logo="http://212.8.253.112/logo/TURKIYE/BEINMOVIEST%C3%9CRK.png" group-title="AS | TURKISH",TR - BEIN MOVIES PREMIER HD
+http://tvservice.pro:80/911617365019/npCylKOVBLNHJKp/39599
+#EXTINF:-1 tvg-id="" tvg-name="TR - BEIN MOVIES PREMIER 2 HD" tvg-logo="http://212.8.253.112/logo/TURKIYE/BEINMOVIEST%C3%9CRK.png" group-title="AS | TURKISH",TR - BEIN MOVIES PREMIER 2 HD
+http://tvservice.pro:80/911617365019/npCylKOVBLNHJKp/39598
+#EXTINF:-1 tvg-id="beinmoviesstars.tr" tvg-name="TR - BEIN MOVIES STARS HD" tvg-logo="http://212.8.253.112/logo/TURKIYE/BEINMOVIEST%C3%9CRK.png" group-title="AS | TURKISH",TR - BEIN MOVIES STARS HD
+http://tvservice.pro:80/911617365019/npCylKOVBLNHJKp/39597
+#EXTINF:-1 tvg-id="beinmoviesturk.tr" tvg-name="TR - BEIN MOVIES TURK HD" tvg-logo="http://212.8.253.112/logo/TURKIYE/BEINMOVIEST%C3%9CRK.png" group-title="AS | TURKISH",TR - BEIN MOVIES TURK HD
+http://tvservice.pro:80/911617365019/npCylKOVBLNHJKp/39596
+#EXTINF:-1 tvg-id="beinboxoffice1.tr" tvg-name="TR - BEIN BOX OFFICE 1 HD" tvg-logo="http://212.8.253.112/logo/TURKIYE/BEINBOXOFFICE2.png" group-title="AS | TURKISH",TR - BEIN BOX OFFICE 1 HD
+http://tvservice.pro:80/911617365019/npCylKOVBLNHJKp/39595
+#EXTINF:-1 tvg-id="beinboxoffice2.tr" tvg-name="TR - BEIN BOX OFFICE 2 HD" tvg-logo="http://212.8.253.112/logo/TURKIYE/BEINBOXOFFICE2.png" group-title="AS | TURKISH",TR - BEIN BOX OFFICE 2 HD
+http://tvservice.pro:80/911617365019/npCylKOVBLNHJKp/39594
+#EXTINF:-1 tvg-id="beinboxoffice3.tr" tvg-name="TR - BEIN BOX OFFICE 3 HD" tvg-logo="http://212.8.253.112/logo/TURKIYE/BEINBOXOFFICE3.png" group-title="AS | TURKISH",TR - BEIN BOX OFFICE 3 HD
+http://tvservice.pro:80/911617365019/npCylKOVBLNHJKp/39593
+#EXTINF:-1 tvg-id="" tvg-name="TR - LOCA 1 HD" tvg-logo="http://212.8.253.112/logo/TURKIYE/LOCA1.png" group-title="AS | TURKISH",TR - LOCA 1 HD
+http://tvservice.pro:80/911617365019/npCylKOVBLNHJKp/39592
+#EXTINF:-1 tvg-id="" tvg-name="TR - LOCA 2 HD" tvg-logo="http://212.8.253.112/logo/TURKIYE/LOCA2.png" group-title="AS | TURKISH",TR - LOCA 2 HD
+http://tvservice.pro:80/911617365019/npCylKOVBLNHJKp/39591
+#EXTINF:-1 tvg-id="" tvg-name="TR - LOCA 3 HD" tvg-logo="http://212.8.253.112/logo/TURKIYE/LOCA3.png" group-title="AS | TURKISH",TR - LOCA 3 HD
+http://tvservice.pro:80/911617365019/npCylKOVBLNHJKp/39590
+#EXTINF:-1 tvg-id="" tvg-name="TR - BLACK TV ACTION" tvg-logo="http://212.8.253.112/logo/TURKIYE/BlackTVACTION.png" group-title="AS | TURKISH",TR - BLACK TV ACTION
+http://tvservice.pro:80/911617365019/npCylKOVBLNHJKp/39589
+#EXTINF:-1 tvg-id="" tvg-name="TR - BLACK TV ANIMAYON" tvg-logo="http://212.8.253.112/logo/TURKIYE/BlackTVANIMAYON.png" group-title="AS | TURKISH",TR - BLACK TV ANIMAYON
+http://tvservice.pro:80/911617365019/npCylKOVBLNHJKp/39588
+#EXTINF:-1 tvg-id="" tvg-name="TR - BLACK TV CLASSIC" tvg-logo="http://212.8.253.112/logo/TURKIYE/BlackTVCLASSIC.png" group-title="AS | TURKISH",TR - BLACK TV CLASSIC
+http://tvservice.pro:80/911617365019/npCylKOVBLNHJKp/39587
+#EXTINF:-1 tvg-id="" tvg-name="TR - BLACK TV COMEDY" tvg-logo="http://212.8.253.112/logo/TURKIYE/BlackTVCOMEDY.png" group-title="AS | TURKISH",TR - BLACK TV COMEDY
+http://tvservice.pro:80/911617365019/npCylKOVBLNHJKp/39586
+#EXTINF:-1 tvg-id="" tvg-name="TR - BLACK TV LOVE" tvg-logo="http://212.8.253.112/logo/TURKIYE/blacktvlove%20(1).png" group-title="AS | TURKISH",TR - BLACK TV LOVE
+http://tvservice.pro:80/911617365019/npCylKOVBLNHJKp/39585
+#EXTINF:-1 tvg-id="" tvg-name="TR - BLACK TV OSCAR" tvg-logo="http://212.8.253.112/logo/TURKIYE/BlackTVOSCAR.png" group-title="AS | TURKISH",TR - BLACK TV OSCAR
+http://tvservice.pro:80/911617365019/npCylKOVBLNHJKp/39584
+#EXTINF:-1 tvg-id="" tvg-name="TR - BLACK TV PREMIER" tvg-logo="http://212.8.253.112/logo/TURKIYE/BlackTVPREMIER.png" group-title="AS | TURKISH",TR - BLACK TV PREMIER
+http://tvservice.pro:80/911617365019/npCylKOVBLNHJKp/39583
+#EXTINF:-1 tvg-id="" tvg-name="TR - BLACK TV TURK" tvg-logo="http://212.8.253.112/logo/TURKIYE/BlackTVOSCAR.png" group-title="AS | TURKISH",TR - BLACK TV TURK
+http://tvservice.pro:80/911617365019/npCylKOVBLNHJKp/39582
+#EXTINF:-1 tvg-id="" tvg-name="TR - BLACK TV VIZYON" tvg-logo="http://212.8.253.112/logo/TURKIYE/BlackTVVIZYON.png" group-title="AS | TURKISH",TR - BLACK TV VIZYON
+http://tvservice.pro:80/911617365019/npCylKOVBLNHJKp/39581
+#EXTINF:-1 tvg-id="" tvg-name="TR - BLACK TV VIZYON 2" tvg-logo="http://212.8.253.112/logo/TURKIYE/BlackTVVIZYON.png" group-title="AS | TURKISH",TR - BLACK TV VIZYON 2
+http://tvservice.pro:80/911617365019/npCylKOVBLNHJKp/39580
+#EXTINF:-1 tvg-id="mesajtv.tr" tvg-name="TR - MANAS TV HD" tvg-logo="http://212.8.253.112/logo/TURKIYE/MANASTV.png" group-title="AS | TURKISH",TR - MANAS TV HD
+http://tvservice.pro:80/911617365019/npCylKOVBLNHJKp/39579
+#EXTINF:-1 tvg-id="" tvg-name="TR - VIXX TV HD" tvg-logo="http://212.8.253.112/logo/TURKIYE/VIXXTV.png" group-title="AS | TURKISH",TR - VIXX TV HD
+http://tvservice.pro:80/911617365019/npCylKOVBLNHJKp/39578
+#EXTINF:-1 tvg-id="" tvg-name="TR - VIXX TV 2 HD" tvg-logo="http://212.8.253.112/logo/TURKIYE/VIXXTV.png" group-title="AS | TURKISH",TR - VIXX TV 2 HD
+http://tvservice.pro:80/911617365019/npCylKOVBLNHJKp/39577
+#EXTINF:-1 tvg-id="" tvg-name="TR - VIXX TV GOLD HD" tvg-logo="http://212.8.253.112/logo/TURKIYE/VIXXTV.png" group-title="AS | TURKISH",TR - VIXX TV GOLD HD
+http://tvservice.pro:80/911617365019/npCylKOVBLNHJKp/39576
+#EXTINF:-1 tvg-id="" tvg-name="TR - MOVIESINEMA AKSIYON HD" tvg-logo="http://212.8.253.112/logo/TURKIYE/MOVIESINEMATURK.png" group-title="AS | TURKISH",TR - MOVIESINEMA AKSIYON HD
+http://tvservice.pro:80/911617365019/npCylKOVBLNHJKp/39575
+#EXTINF:-1 tvg-id="" tvg-name="TR - MOVIESINEMA AKSIYON 2 HD" tvg-logo="http://212.8.253.112/logo/TURKIYE/MOVIESINEMATURK.png" group-title="AS | TURKISH",TR - MOVIESINEMA AKSIYON 2 HD
+http://tvservice.pro:80/911617365019/npCylKOVBLNHJKp/39574
+#EXTINF:-1 tvg-id="" tvg-name="TR - MOVIESINEMA ANIMASYON HD" tvg-logo="http://212.8.253.112/logo/TURKIYE/MOVIESINEMATURK.png" group-title="AS | TURKISH",TR - MOVIESINEMA ANIMASYON HD
+http://tvservice.pro:80/911617365019/npCylKOVBLNHJKp/39573
+#EXTINF:-1 tvg-id="" tvg-name="TR - MOVIESINEMA ANIMASYON 2 HD" tvg-logo="http://212.8.253.112/logo/TURKIYE/MOVIESINEMATURK.png" group-title="AS | TURKISH",TR - MOVIESINEMA ANIMASYON 2 HD
+http://tvservice.pro:80/911617365019/npCylKOVBLNHJKp/39572
+#EXTINF:-1 tvg-id="" tvg-name="TR - MOVIESINEMA KOMEDI HD" tvg-logo="http://212.8.253.112/logo/TURKIYE/MOVIESINEMATURK.png" group-title="AS | TURKISH",TR - MOVIESINEMA KOMEDI HD
+http://tvservice.pro:80/911617365019/npCylKOVBLNHJKp/39571
+#EXTINF:-1 tvg-id="" tvg-name="TR - MOVIESINEMA KORKU HD" tvg-logo="http://212.8.253.112/logo/TURKIYE/MOVIESINEMATURK.png" group-title="AS | TURKISH",TR - MOVIESINEMA KORKU HD
+http://tvservice.pro:80/911617365019/npCylKOVBLNHJKp/39570
+#EXTINF:-1 tvg-id="" tvg-name="TR - MOVIESINEMA TURK HD" tvg-logo="http://212.8.253.112/logo/TURKIYE/MOVIESINEMATURK.png" group-title="AS | TURKISH",TR - MOVIESINEMA TURK HD
+http://tvservice.pro:80/911617365019/npCylKOVBLNHJKp/39569
+#EXTINF:-1 tvg-id="" tvg-name="TR - MOVIESINEMA TURK 2 HD" tvg-logo="http://212.8.253.112/logo/TURKIYE/MOVIESINEMATURK2.png" group-title="AS | TURKISH",TR - MOVIESINEMA TURK 2 HD
+http://tvservice.pro:80/911617365019/npCylKOVBLNHJKp/39568
+#EXTINF:-1 tvg-id="" tvg-name="TR - MOVIESINEMA VIZYON HD" tvg-logo="http://212.8.253.112/logo/TURKIYE/MOVIESINEMAVIZYONHD.png" group-title="AS | TURKISH",TR - MOVIESINEMA VIZYON HD
+http://tvservice.pro:80/911617365019/npCylKOVBLNHJKp/39567
+#EXTINF:-1 tvg-id="" tvg-name="TR - MOVIESINEMA YESILCAM HD" tvg-logo="http://212.8.253.112/logo/TURKIYE/MOVIESINEMAVIZYONHD.png" group-title="AS | TURKISH",TR - MOVIESINEMA YESILCAM HD
+http://tvservice.pro:80/911617365019/npCylKOVBLNHJKp/39566
+#EXTINF:-1 tvg-id="" tvg-name="TR - KEMAL SUNAL TV" tvg-logo="http://212.8.253.112/logo/TURKIYE/KEMALSUNALTV.png" group-title="AS | TURKISH",TR - KEMAL SUNAL TV
+http://tvservice.pro:80/911617365019/npCylKOVBLNHJKp/39565
