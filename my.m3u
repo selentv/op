@@ -173,6 +173,10 @@ http://tvservice.pro:80/911617365019/npCylKOVBLNHJKp/886
 http://tvservice.pro:80/911617365019/npCylKOVBLNHJKp/904
 #EXTINF:-1 tvg-id="" tvg-name="SAUDI SUNNAH" tvg-logo="http://212.8.253.112/logo/SAUDIARABIA/SAUDISUNNAH.png" group-title="AR | SAOUDI",SAUDI SUNNAH
 http://tvservice.pro:80/911617365019/npCylKOVBLNHJKp/895
+#EXTINF:-1 tvg-id="" tvg-name="AL QURAN TV" tvg-logo="http://212.8.253.112/logo/TURKIYE/ALQURANTV.png" group-title="AS | TURKISH",AL QURAN TV
+http://tvservice.pro:80/911617365019/npCylKOVBLNHJKp/39616
+#EXTINF:-1 tvg-id="" tvg-name="KABE TV" tvg-logo="http://212.8.253.112/logo/TURKIYE/KABETV.png" group-title="AS | TURKISH",KABE TV
+http://tvservice.pro:80/911617365019/npCylKOVBLNHJKp/39615
 #EXTINF:-1 tvg-id="" tvg-name="TR - KEMAL SUNAL TV" tvg-logo="http://212.8.253.112/logo/TURKIYE/KEMALSUNALTV.png" group-title="AS | TURKISH",TR - KEMAL SUNAL TV
 http://tvservice.pro:80/911617365019/npCylKOVBLNHJKp/39565
 #EXTINF:-1 tvg-id="" tvg-name="AL RAYYAN" tvg-logo="http://212.8.253.112/logo/QATAR/ALRAYYAN.png" group-title="AR | QATAR",AL RAYYAN
