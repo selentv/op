@@ -1,5 +1,55 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-name="##### TR - TURKIYE #####" tvg-logo="" group-title="AS | TURKISH",##### TR - TURKIYE #####
+http://185.132.176.71:80/demo/demo/mpegts
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 HD" tvg-logo="http://212.8.253.112/logo/TURKIYE/TRT1HD.png" group-title="AS | TURKISH",TRT 1 HD
+http://tvservice.pro:80/915021194397/DFpInddDiojvrjs/39774
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 HD PLUS" tvg-logo="http://212.8.253.112/logo/TURKIYE/TRT1HDPLUS.png" group-title="AS | TURKISH",TRT 1 HD PLUS
+http://tvservice.pro:80/915021194397/DFpInddDiojvrjs/39773
+#EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="SHOW HD" tvg-logo="http://212.8.253.112/logo/TURKIYE/SHOWHD.png" group-title="AS | TURKISH",SHOW HD
+http://tvservice.pro:80/915021194397/DFpInddDiojvrjs/39772
+#EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="SHOW HD PLUS" tvg-logo="http://212.8.253.112/logo/TURKIYE/SHOWHDPLUS.png" group-title="AS | TURKISH",SHOW HD PLUS
+http://tvservice.pro:80/915021194397/DFpInddDiojvrjs/39771
+#EXTINF:-1 tvg-id="KanalD.tr" tvg-name="KANAL D HD" tvg-logo="http://212.8.253.112/logo/TURKIYE/KANALD.png" group-title="AS | TURKISH",KANAL D HD
+http://tvservice.pro:80/915021194397/DFpInddDiojvrjs/39770
+#EXTINF:-1 tvg-id="KanalD.tr" tvg-name="KANAL D HD PLUS" tvg-logo="http://212.8.253.112/logo/TURKIYE/KANALDHDPLUS.png" group-title="AS | TURKISH",KANAL D HD PLUS
+http://tvservice.pro:80/915021194397/DFpInddDiojvrjs/39769
+#EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV HD" tvg-logo="http://212.8.253.112/logo/TURKIYE/ATVHD.png" group-title="AS | TURKISH",ATV HD
+http://tvservice.pro:80/915021194397/DFpInddDiojvrjs/39768
+#EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV HD PLUS" tvg-logo="http://212.8.253.112/logo/TURKIYE/ATVHDPLUS.png" group-title="AS | TURKISH",ATV HD PLUS
+http://tvservice.pro:80/915021194397/DFpInddDiojvrjs/39767
+#EXTINF:-1 tvg-id="StarTV.tr" tvg-name="STAR HD" tvg-logo="http://212.8.253.112/logo/TURKIYE/STAR.png" group-title="AS | TURKISH",STAR HD
+http://tvservice.pro:80/915021194397/DFpInddDiojvrjs/39766
+#EXTINF:-1 tvg-id="StarTV.tr" tvg-name="STAR HD PLUS" tvg-logo="http://212.8.253.112/logo/TURKIYE/STARHDPLUS.png" group-title="AS | TURKISH",STAR HD PLUS
+http://tvservice.pro:80/915021194397/DFpInddDiojvrjs/39765
+#EXTINF:-1 tvg-id="Fox.tr" tvg-name="FOX HD" tvg-logo="http://212.8.253.112/logo/TURKIYE/FOX.png" group-title="AS | TURKISH",FOX HD
+http://tvservice.pro:80/915021194397/DFpInddDiojvrjs/39764
+#EXTINF:-1 tvg-id="Fox.tr" tvg-name="FOX HD PLUS" tvg-logo="http://212.8.253.112/logo/TURKIYE/FOXHDPLUS.png" group-title="AS | TURKISH",FOX HD PLUS
+http://tvservice.pro:80/915021194397/DFpInddDiojvrjs/39763
+#EXTINF:-1 tvg-id="TV85.tr" tvg-name="TV 8 HD" tvg-logo="http://212.8.253.112/logo/TURKIYE/TV8HD.png" group-title="AS | TURKISH",TV 8 HD
+http://tvservice.pro:80/915021194397/DFpInddDiojvrjs/39762
+#EXTINF:-1 tvg-id="TV85.tr" tvg-name="TV 8 HD PLUS" tvg-logo="http://212.8.253.112/logo/TURKIYE/TV8HDPLUS.png" group-title="AS | TURKISH",TV 8 HD PLUS
+http://tvservice.pro:80/915021194397/DFpInddDiojvrjs/39761
+#EXTINF:-1 tvg-id="BeyazTV.tr" tvg-name="BEYAZ HD PLUS" tvg-logo="http://212.8.253.112/logo/TURKIYE/BEYAZHDPLUS.png" group-title="AS | TURKISH",BEYAZ HD PLUS
+http://tvservice.pro:80/915021194397/DFpInddDiojvrjs/39760
+#EXTINF:-1 tvg-id="TV85.tr" tvg-name="TV 8.5 HD PLUS" tvg-logo="http://212.8.253.112/logo/TURKIYE/TV8.5HDPLUS.png" group-title="AS | TURKISH",TV 8.5 HD PLUS
+http://tvservice.pro:80/915021194397/DFpInddDiojvrjs/39759
+#EXTINF:-1 tvg-id="TV85.tr" tvg-name="TV 8.5 HD" tvg-logo="http://212.8.253.112/logo/TURKIYE/TV8.5HD.png" group-title="AS | TURKISH",TV 8.5 HD
+http://tvservice.pro:80/915021194397/DFpInddDiojvrjs/39758
+#EXTINF:-1 tvg-id="a2tv.tr" tvg-name="A2 HD PLUS" tvg-logo="http://212.8.253.112/logo/TURKIYE/A2HDPLUS.png" group-title="AS | TURKISH",A2 HD PLUS
+http://tvservice.pro:80/915021194397/DFpInddDiojvrjs/39757
+#EXTINF:-1 tvg-id="tvem.tr" tvg-name="TEVE 2 HD PLUS" tvg-logo="http://212.8.253.112/logo/TURKIYE/TEVE2HDPLUS.png" group-title="AS | TURKISH",TEVE 2 HD PLUS
+http://tvservice.pro:80/915021194397/DFpInddDiojvrjs/39756
+#EXTINF:-1 tvg-id="Showmax.tr" tvg-name="SHOW MAX" tvg-logo="http://212.8.253.112/logo/TURKIYE/SHOWMAX.png" group-title="AS | TURKISH",SHOW MAX
+http://tvservice.pro:80/915021194397/DFpInddDiojvrjs/39755
+#EXTINF:-1 tvg-id="Kanal7.tr" tvg-name="KANAL 7 HD" tvg-logo="http://212.8.253.112/logo/TURKIYE/KANAL7EUROPA.png" group-title="AS | TURKISH",KANAL 7 HD
+http://tvservice.pro:80/915021194397/DFpInddDiojvrjs/39754
+#EXTINF:-1 tvg-id="Kanal7.tr" tvg-name="KANAL 7 HD PLUS" tvg-logo="http://212.8.253.112/logo/TURKIYE/KANAL7.png" group-title="AS | TURKISH",KANAL 7 HD PLUS
+http://tvservice.pro:80/915021194397/DFpInddDiojvrjs/39753
+#EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV EUROPA" tvg-logo="http://212.8.253.112/logo/TURKIYE/ATVEUROPA.png" group-title="AS | TURKISH",ATV EUROPA
+http://tvservice.pro:80/915021194397/DFpInddDiojvrjs/39751
+#EXTINF:-1 tvg-id="" tvg-name="AV MEVSIMI" tvg-logo="http://stb.first-class-portal.com:80/images/yqmDH5wWOQkbNHNxU6Lhcb6F3mK_small.jpg" group-title="AS | TURKISH",AV MEVSIMI
+http://tvservice.pro:80/915021194397/DFpInddDiojvrjs/39749
 
 #EXTINF:-1 tvg-id="" tvg-name="QATAR TV HD" tvg-logo="http://212.8.253.112/logo/QATAR/QATARTVHD.png" group-title="AR | QATAR",QATAR TV HD
 http://tvservice.pro:80/911617365019/npCylKOVBLNHJKp/574
